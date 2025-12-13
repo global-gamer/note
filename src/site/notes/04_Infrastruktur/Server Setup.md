@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/server-setup/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:15.934+01:00","updated":"2025-12-13T14:41:39.197+01:00"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/server-setup/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:15.934+01:00","updated":"2025-12-13T16:04:36.971+01:00"}
 ---
 
 # Server-Setup & Bots
@@ -108,6 +108,6 @@
 - [ ] Backup-Jobs testen (Restore-Test quartalsweise).
 - [ ] Monitoring-Dashboards im Ops-Channel vorstellen.
 
-Verzahnung mit [[05_Phasenplan/Phase 1 Infrastructure Build\|Phase 1 Infrastructure Build]] (Stabilität), [[05_Phasenplan/Phase 4 Public Launch\|Phase 4 Public Launch]] (Kapazität) und [[03_Rollen/Rollenuebersicht#Division: IT & Staff Operations\|IT & Staff Division]] sicherstellen.
+Verzahnung mit [[05_Phasenplan/Phase 2 Infrastructure Build\|Phase 2 Infrastructure Build]] (Stabilität), [[05_Phasenplan/Phase 5 Public Launch\|Phase 5 Public Launch]] (Kapazität) und [[03_Rollen/Rollenuebersicht#Division: IT & Staff Operations\|IT & Staff Division]] sicherstellen.
 
 ↩ [[Home\|Home]]

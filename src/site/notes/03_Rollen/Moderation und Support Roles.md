@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rollen/moderation-und-support-roles/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:04:28.235+01:00","updated":"2025-12-13T14:41:39.194+01:00"}
+{"dg-publish":true,"permalink":"/03-rollen/moderation-und-support-roles/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:04:28.235+01:00","updated":"2025-12-13T16:04:36.975+01:00"}
 ---
 
 # Moderation & Support Roles
@@ -23,7 +23,7 @@ Detail-Playbooks für Support Lead, Event Lead und die Moderations-Laufbahn. Nut
 - **Reports to:** [[03_Rollen/Projektleitungen#Community Project Lead (Community & Events)\|Community Project Lead]]
 - **Mission:** Reibungslose Events mit messbarer Wirkung auf Retention & Content.
 - **Key Responsibilities:**
-  - Plant Kalender & Formate gemäß [[05_Phasenplan/Phase 3 Soft Launch\|Phasenplan]] → [[05_Phasenplan/Phase 6 Growth Sprint\|Phase 6 Growth Sprint]] und dokumentiert jedes Event mit dem [[Templates/Event-Template\|Event-Template]].
+  - Plant Kalender & Formate gemäß [[05_Phasenplan/Phase 4 Soft Launch\|Phasenplan]] → [[05_Phasenplan/Phase 7 Growth Sprint\|Phase 7 Growth Sprint]] und dokumentiert jedes Event mit dem [[Templates/Event-Template\|Event-Template]].
   - Koordiniert Casting/Hosts, Streamer, Moderation & Tech-Support pro Event.
   - Übergibt Highlights/Recaps an Growth-Team für Content-Schleifen ([[04_Infrastruktur/Plattformen\|Plattformen]]).
   - Erstellt Retro-Notizen mit KPI-Vergleich (Teilnehmer/Twitch/Feedback) für Leadership Council.
@@ -35,7 +35,7 @@ Detail-Playbooks für Support Lead, Event Lead und die Moderations-Laufbahn. Nut
 - **Mission:** Coach & Qualitätsanker für das Mod-Team.
 - **Responsibilities:**
   - Leitet Eskalations-Calls, beurteilt kritische Cases mit Support Captain.
-  - Aktualisiert Regelwerk/Guidelines nach Lessons Learned ([[05_Phasenplan/Phase 2 Culture Pilot\|Phase 2 Culture Pilot]]).
+  - Aktualisiert Regelwerk/Guidelines nach Lessons Learned ([[05_Phasenplan/Phase 3 Culture Pilot\|Phase 3 Culture Pilot]]).
   - Onboardet neue Moderators & Helpers, organisiert Shadowing.
 - **KPIs:** Anzahl eskalierter Fälle gelöst, Trainings pro Monat.
 

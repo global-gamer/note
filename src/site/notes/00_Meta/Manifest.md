@@ -1,0 +1,64 @@
+---
+{"dg-publish":true,"permalink":"/00-meta/manifest/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:00:35.664+01:00","updated":"2025-12-13T16:06:37.766+01:00"}
+---
+
+# Manifest – Herkunft, Haltung & Ambition
+
+Das GG-N Manifest ist unser CEO-Briefing an die Zukunft: Es hält fest, woher wir kommen, was uns antreibt und wie wir skalieren, ohne unsere Wurzeln zu verlieren.
+
+## Ursprung & Timeline
+| Jahr | Meilenstein | Wirkung |
+| --- | --- | --- |
+| 2024 | Erste Random-Match-Frust-Session → Konzept [[00_Meta/Projektueberblick\|Projektueberblick]] | Fokus auf „mehr als Randoms“ entsteht. |
+| 2025 | Governance Reset & Council-Aufbau ([[05_Phasenplan/Phase 1 Strategic Reset\|Phase 1 Strategic Reset]]) | Gleichberechtigte Dreierspitze definiert Rollenmodell. |
+| 2026 | Launch & Growth-Loop ([[05_Phasenplan/Phase 5 Public Launch\|Phase 5 Public Launch]] → [[05_Phasenplan/Phase 7 Growth Sprint\|Phase 7 Growth Sprint]]) | Community proof of concept, Datenkultur verankert. |
+| 2027+ | Monetization + Impact ([[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]] → [[05_Phasenplan/Phase 10 Sustainability\|Phase 10 Sustainability]]) | Finanzielle Nachhaltigkeit + ESG-Story. |
+
+## North-Star Ambition
+1. **100 % Vertrauenswürdige Community** – Kein Tag ohne Moderation, klare Regeln sichtbar auf allen Plattformen ([[Regelwerke/GG-N-AGB (DE)\|AGB]], [[Regelwerke/Discord-Regelwerk\|Regelwerke/Discord-Regelwerk]]).
+2. **Selbsttragende Finanzen** – [[02_Ziele/Finanzielle Ziele\|Finanzielle Ziele]] + [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]] sichern >100 % Cost Coverage + Reinvest-Puffer.
+3. **Data-Driven Decisions** – Jeder große Schritt basiert auf einem KPI-Snapshot aus [[04_Infrastruktur/Data Platform\|04_Infrastruktur/Data Platform]] und landet im Council-Deck.
+4. **Creator-positive Scaling** – Partnerschaften & Playbooks (z. B. [[05_Phasenplan/Taschengeld Funnel\|05_Phasenplan/Taschengeld Funnel]]) stärken junge Talente statt sie auszunutzen.
+
+## Leitprinzipien
+- **Vision Locked** – Jede Initiative referenziert [[01_Vision/Vision 2026\|Vision 2026]] & [[01_Vision/Zielgruppe\|Zielgruppe]]; Abweichungen müssen im Council begründet werden.
+- **Transparente Ownership** – Rollen, Deputies, KPIs liegen offen in [[03_Rollen/Rollenuebersicht\|Rollenuebersicht]] & [[03_Rollen/Projektleitungen\|Projektleitungen]].
+- **Psychologische Sicherheit** – Moderation/Support handeln nach [[03_Rollen/Moderation und Support Roles\|Moderation und Support Roles]], Feedback wird institutionalisiert.
+- **Operational Excellence** – Runbooks + Server-Änderungen werden im [[Templates/Server-Change-Template\|Templates/Server-Change-Template]] dokumentiert; keine Schatten-Deployments.
+- **Learning Publicly** – Erfolg & Scheitern wandern gleichermaßen in [[Templates/Meeting-Template\|Weekly Notes]].
+
+## Strategische Säulen
+1. **Community Core** – Discord/Forum/Events orchestriert über [[04_Infrastruktur/Plattformen\|Plattformen]], [[02_Ziele/Community Ziele\|Community Ziele]] & [[Templates/Event-Template\|Templates/Event-Template]].
+2. **Growth & Monetization** – Omni-Channel-Kampagnen + Partnerdeck aus [[05_Phasenplan/Phase 7 Growth Sprint\|Phase 7 Growth Sprint]] & [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]].
+3. **Ops & Infrastructure** – Pterodactyl, Nodes, Automations nach [[04_Infrastruktur/Server Setup\|Server Setup]] + [[04_Infrastruktur/Data Platform\|04_Infrastruktur/Data Platform]].
+4. **Compliance & Trust** – Risiko-Backlog + Gegenmaßnahmen aus [[06_Risiken/Risiken und Gegenmassnahmen\|Risiken und Gegenmassnahmen]], Privacy-Einhaltung, transparente VIP-Programme.
+5. **Innovation Pods** – Dedizierte Slots für neue Playbooks (Taschengeld Funnel, Creator Labs) – dokumentiert im Abschnitt „Growth Playbooks“.
+
+## 10-Phasen-Cadence
+- **Phasen 1–3** = Fundament (Governance, Infra, Kultur). Fokus: Struktur, Tooling, Werte.
+- **Phasen 4–6** = Öffnung & Automatisierung. Fokus: Launch, Community Proof, SOPs.
+- **Phasen 7–9** = Wachstum & Expansion. Fokus: Experimente, Monetarisierung, internationale Satelliten.
+- **Phase 10** = Nachhaltigkeit. Fokus: ESG, Nachfolge, Impact Reporting.
+- Nach Phase 10 beginnt der Zyklus bewusst neu – mit Lessons Learned zurück zu [[05_Phasenplan/Phase 1 Strategic Reset\|Phase 1 Strategic Reset]].
+
+## Operating Rhythm (CEO-Perspektive)
+- **Weekly Council** – Status aller Phasen + Risiko-Review, Dokumentation im Meeting-Template.
+- **Monthly Manifest Check-In** – Passt unser Handeln noch zu Prinzipien & Timeline? Falls nein → Manifest ergänzen.
+- **Quarterly State of the Guild** – Öffentliche Townhall + Update im Digital Garden (nutzt [[04_Infrastruktur/Digital Garden Publishing\|04_Infrastruktur/Digital Garden Publishing]]).
+- **Annual Reset** – Phase-10-Review, Budget-Neuaufstellung, Offsite zur Kurskorrektur.
+
+## Skalierungsleitplanken
+- **Heritage sichtbar halten** – Home, Manifest und Timeline bleiben fix. Screenshots & Milestones gehören ins Vault, nicht nur in Social Posts.
+- **Experimente mit Guardrails** – Jedes Playbook erhält Owner, Hypothese, KPI & Risk Link (z. B. [[05_Phasenplan/Taschengeld Funnel\|05_Phasenplan/Taschengeld Funnel]] ↔ [[06_Risiken/Risiken und Gegenmassnahmen\|Risiken und Gegenmassnahmen]]).
+- **Feedback-Schleifen** – Nach jeder Phase Retro im Meeting-Template + Backlog/TODO Update ([[07_Naechste_Schritte/Shortlist\|Shortlist]]).
+- **Responsible Growth** – Compliance, Eltern-/Partner-Kommunikation und Data Privacy sind nicht verhandelbar; referenziere regelmäßig [[Regelwerke/Privacy-Notice\|Regelwerke/Privacy-Notice]].
+
+## Next CEO Actions
+- [ ] Timeline erweitern (Quarterly Highlights mit Zahlen).
+- [ ] `dg-pinned` setzen, sobald Garden-Navigation final ist.
+- [ ] Manifest in Onboarding verankern (verlinkt in [[03_Rollen/Erste Besetzung\|Erste Besetzung]] & Rollenbriefings).
+- [ ] Dedizierte „Lessons Learned“ Sektion ergänzen, sobald Phase-2 Retro abgeschlossen ist.
+
+↩ [[Home\|Home]]
+
+↩ [[Home\|Home]]

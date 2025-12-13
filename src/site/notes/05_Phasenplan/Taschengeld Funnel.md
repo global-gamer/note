@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/taschengeld-funnel/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T13:21:20.179+01:00","updated":"2025-12-13T14:41:39.202+01:00"}
+{"dg-publish":true,"permalink":"/05-phasenplan/taschengeld-funnel/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T13:21:20.179+01:00","updated":"2025-12-13T16:04:36.980+01:00"}
 ---
 
 # Taschengeld Funnel - Hypothese
 
-Meta-Notiz zu einem aggressiveren, spielerischen Monetarisierungskonzept für jüngere Zielgruppen (8-16 Jahre). Gedankenspiel für [[05_Phasenplan/Phase 7 Monetization\|Phase 7 Monetization]] und die [[02_Ziele/Finanzielle Ziele\|Finanzielle Ziele]]. Ziel ist, den kompletten Journey von Erstkontakt bis Loyalitätsprogramm zu skizzieren.
+Meta-Notiz zu einem aggressiveren, spielerischen Monetarisierungskonzept für jüngere Zielgruppen (8-16 Jahre). Gedankenspiel für [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]] und die [[02_Ziele/Finanzielle Ziele\|Finanzielle Ziele]]. Ziel ist, den kompletten Journey von Erstkontakt bis Loyalitätsprogramm zu skizzieren.
 
 ## Zielgruppen-Segmente
 - **Sprinter (8-10, Taschengeld wöchentlich)**: Kaufen impulsiv, reagieren stark auf glitzernde Cosmetics und begrenzte Angebote. Eltern müssen häufig bestätigen, daher Fokus auf Micro-Transactions.
@@ -108,4 +108,4 @@ Meta-Notiz zu einem aggressiveren, spielerischen Monetarisierungskonzept für j�
 - **Regulatorik**: Altersverifikation + einfache Refund-Flows implementieren, um Lootbox-Diskussionen zu entschärfen; Terms of Service anpassen.
 - **Eltern-Proteste**: Transparente Abonnements-Übersicht plus "Pause"-Schalter, aber gut versteckt hinter drei Klicks. Support nutzt positive Pädagogik-Claims.
 
-↩ [[05_Phasenplan/Phase 7 Monetization\|Phase 7 Monetization]] · [[Home\|Home]]
+↩ [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]] · [[Home\|Home]]

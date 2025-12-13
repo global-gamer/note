@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/plattformen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:13.606+01:00","updated":"2025-12-13T14:41:39.197+01:00"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/plattformen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:13.606+01:00","updated":"2025-12-13T16:04:36.972+01:00"}
 ---
 
 # Plattformen & Community Touchpoints
@@ -8,7 +8,7 @@ Ausbaustufen für Discord, Forum, Website und Social Media. Ziel: direkte Einzah
 
 ## Discord Hub
 - **Ziele:** 100 % der aktiven Member im Server, „kein toter Tag“ Indicator.
-- **Struktur:** Kategorien Info / Community / Games / Support / Staff (vgl. [[05_Phasenplan/Phase 1 Infrastructure Build\|Phase 1 Infrastructure Build]]).
+- **Struktur:** Kategorien Info / Community / Games / Support / Staff (vgl. [[05_Phasenplan/Phase 2 Infrastructure Build\|Phase 2 Infrastructure Build]]).
 - **Tasks:**
   - [ ] Automations (Welcome, Role Selection, Ticket Bot) produktiv nehmen.
   - [ ] Events-Tab pflegen (alle Termine mit „Interested“ Tracking → KPI).

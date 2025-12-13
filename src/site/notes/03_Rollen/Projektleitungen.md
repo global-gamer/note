@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rollen/projektleitungen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:01:41.400+01:00","updated":"2025-12-13T14:41:39.194+01:00"}
+{"dg-publish":true,"permalink":"/03-rollen/projektleitungen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:01:41.400+01:00","updated":"2025-12-13T16:04:36.973+01:00"}
 ---
 
 # Executive Council Tracks
@@ -12,7 +12,7 @@ Die Executive Council besteht aus drei Directors auf gleicher Ebene. Jeder Strea
 - **Focus Areas:**
   - Server setup, automation, failover, backups ([[04_Infrastruktur/Server Setup\|Server Setup]])
   - Staff scheduling & escalation design; adherence to Support SOPs
-  - QA on tickets/mod-tools, plus continuous improvement (vgl. [[05_Phasenplan/Phase 1 Infrastructure Build\|Phase 1 Infrastructure Build]])
+  - QA on tickets/mod-tools, plus continuous improvement (vgl. [[05_Phasenplan/Phase 2 Infrastructure Build\|Phase 2 Infrastructure Build]])
 - **KPIs:** Core server uptime, ticket SLA %, staff availability, incident count.
 - **Key Artefacts:** [[Templates/Server-Change-Template\|Server Change Logs]], runbooks, onboarding packs, incident reviews.
 
@@ -21,7 +21,7 @@ Die Executive Council besteht aus drei Directors auf gleicher Ebene. Jeder Strea
 - **Direct Reports:** Growth Manager/Media Lead, Partnerships Manager, Merch & VIP Manager, Analyst.
 - **Focus Areas:**
   - Omni-channel campaigns (Discord, social, paid) per [[04_Infrastruktur/Plattformen\|Plattformen]]
-  - Branding, partner-ready assets, media kit (vgl. [[04_Infrastruktur/Domains und Branding\|Domains und Branding]], [[05_Phasenplan/Phase 7 Monetization\|Phase 7 Monetization]])
+  - Branding, partner-ready assets, media kit (vgl. [[04_Infrastruktur/Domains und Branding\|Domains und Branding]], [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]])
   - VIP/supporter programmes, donation/shop flows ([[02_Ziele/Finanzielle Ziele\|Finanzielle Ziele]])
 - **KPIs:** Active community growth, conversion to event participants, sponsorship pipeline velocity, revenue run rate.
 - **Key Artefacts:** Media kit, content calendar, sponsorship CRM, monetisation dashboards.
@@ -30,8 +30,8 @@ Die Executive Council besteht aus drei Directors auf gleicher Ebene. Jeder Strea
 - **Mission:** Craft the day-to-day player experience, keep moderation drama-free, and deliver signature events.
 - **Direct Reports:** Community Manager, Event Director, Moderation Captains, Onboarding Squad.
 - **Focus Areas:**
-  - Discord architecture, ruleset, onboarding journeys (vgl. [[05_Phasenplan/Phase 1 Infrastructure Build\|Phase 1 Infrastructure Build]] & [[05_Phasenplan/Phase 2 Culture Pilot\|Phase 2 Culture Pilot]])
-  - Event formats & execution ([[05_Phasenplan/Phase 3 Soft Launch\|Phase 3 Soft Launch]], [[05_Phasenplan/Phase 4 Public Launch\|Phase 4 Public Launch]])
+  - Discord architecture, ruleset, onboarding journeys (vgl. [[05_Phasenplan/Phase 2 Infrastructure Build\|Phase 2 Infrastructure Build]] & [[05_Phasenplan/Phase 3 Culture Pilot\|Phase 3 Culture Pilot]])
+  - Event formats & execution ([[05_Phasenplan/Phase 4 Soft Launch\|Phase 4 Soft Launch]], [[05_Phasenplan/Phase 5 Public Launch\|Phase 5 Public Launch]])
   - Member lifecycle: applications, retention beats, feedback loops ([[02_Ziele/Community Ziele\|Community Ziele]])
 - **KPIs:** Weekly active members, event participation, satisfaction/NPS, moderation incident rate.
 - **Key Artefacts:** [[Templates/Event-Template\|Event Logs]], moderation handbook, onboarding scripts, community insights.

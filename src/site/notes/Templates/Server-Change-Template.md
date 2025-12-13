@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":"server-change","change-id":null,"status":"draft","owner":null,"related-phase":null,"permalink":"/templates/server-change-template/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:48:14.162+01:00","updated":"2025-12-13T14:41:39.207+01:00"}
+{"dg-publish":true,"type":"server-change","change-id":null,"status":"draft","owner":null,"related-phase":null,"permalink":"/templates/server-change-template/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:48:14.162+01:00","updated":"2025-12-13T16:04:36.984+01:00"}
 ---
 
 
@@ -11,7 +11,7 @@ Nutze dieses Template für alle Änderungen an Game-Servern, Bots oder der Infra
 - **Titel:** 
 - **Datum/Zeitfenster:** 
 - **Betroffener Server / Bot:** 
-- **Auslöser / Bedarf:** (siehe [[04_Infrastruktur/Server Setup\|Server Setup]] & [[05_Phasenplan/Phase 1 Infrastructure Build\|Phase 1 Infrastructure Build]])
+- **Auslöser / Bedarf:** (siehe [[04_Infrastruktur/Server Setup\|Server Setup]] & [[05_Phasenplan/Phase 2 Infrastructure Build\|Phase 2 Infrastructure Build]])
 - **Risiko-Einschätzung:** (Abgleich mit [[06_Risiken/Risiken und Gegenmassnahmen\|Risiken und Gegenmassnahmen]])
 
 ## Vorbereitung
@@ -27,7 +27,7 @@ Nutze dieses Template für alle Änderungen an Game-Servern, Bots oder der Infra
 
 ## Tests & Validierung
 - [ ] Funktionstest
-- [ ] Performance-Check (20–30 Spieler siehe [[05_Phasenplan/Phase 3 Soft Launch\|Phase 3 Soft Launch]] Checkliste)
+- [ ] Performance-Check (20–30 Spieler siehe [[05_Phasenplan/Phase 4 Soft Launch\|Phase 4 Soft Launch]] Checkliste)
 - [ ] Monitoring / Alarmierung bestätigt
 
 ## Ergebnis & Follow-up

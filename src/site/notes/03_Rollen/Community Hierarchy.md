@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rollen/community-hierarchy/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:01:46.487+01:00","updated":"2025-12-13T14:41:39.193+01:00"}
+{"dg-publish":true,"permalink":"/03-rollen/community-hierarchy/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:01:46.487+01:00","updated":"2025-12-13T16:04:36.973+01:00"}
 ---
 
 # Community Hierarchy (English Titles)
@@ -19,13 +19,13 @@ Struktur für Discord-Rollen, Permission-Groups und Onboarding. Alle Titel orien
 
 ## Division: Growth Collective
 - **Growth Manager (Media Lead)** – Content calendar, social drops ([[04_Infrastruktur/Plattformen\|Plattformen]]).
-    - **Partnerships Manager** – Sponsorship pipeline, partner care ([[05_Phasenplan/Phase 7 Monetization\|Phase 7 Monetization]]).
+    - **Partnerships Manager** – Sponsorship pipeline, partner care ([[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]]).
 - **Merch & VIP Manager** – Supporter perks, shops, loyalty ([[02_Ziele/Finanzielle Ziele\|Finanzielle Ziele]]).
 - **Creator Relations Lead** – Liaison to streamers, content partners.
 - **Data & Insights Analyst** – KPI dashboards, campaign reporting.
 
 ## Division: Community Experience Guild
-- **Community Manager** – Rules, onboarding, culture ([[05_Phasenplan/Phase 1 Infrastructure Build\|Phase 1 Infrastructure Build]], [[05_Phasenplan/Phase 2 Culture Pilot\|Phase 2 Culture Pilot]]).
+- **Community Manager** – Rules, onboarding, culture ([[05_Phasenplan/Phase 2 Infrastructure Build\|Phase 2 Infrastructure Build]], [[05_Phasenplan/Phase 3 Culture Pilot\|Phase 3 Culture Pilot]]).
 - **Event Director** – Event roadmap, execution, retros ([[Templates/Event-Template\|Templates/Event-Template]]).
 - **Moderation Captains** – Lead mod squads per focus game.
 - **Onboarding Guides** – Manage applications, welcome journeys.

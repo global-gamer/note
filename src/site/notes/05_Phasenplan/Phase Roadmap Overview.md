@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-roadmap-overview/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:36:50.133+01:00","updated":"2025-12-13T14:41:39.202+01:00"}
+{"dg-publish":true,"permalink":"/05-phasenplan/phase-roadmap-overview/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:36:50.133+01:00","updated":"2025-12-13T16:04:19.486+01:00"}
 ---
 
 # Phase Roadmap Overview
@@ -16,7 +16,7 @@ TABLE
   status_icon + " " + status AS "Status",
   join(milestones, ", ") AS "Key Milestones"
 FROM "05_Phasenplan"
-WHERE phase >= 0 AND phase <= 9
+WHERE phase >= 1 AND phase <= 10
 SORT phase ASC
 ```
 

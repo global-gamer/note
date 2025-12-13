@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"type":"meeting-note","meeting":null,"cadence":null,"owner":null,"permalink":"/templates/meeting-template/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:48:09.085+01:00","updated":"2025-12-13T14:41:39.207+01:00"}
+{"dg-publish":true,"type":"meeting-note","meeting":null,"cadence":null,"owner":null,"permalink":"/templates/meeting-template/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:48:09.085+01:00","updated":"2025-12-13T16:04:36.985+01:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 
 ## Agenda
 1. KPI-Check (vgl. [[02_Ziele/Community Ziele\|Community Ziele]], [[02_Ziele/Orga Ziele\|Orga Ziele]], [[02_Ziele/Finanzielle Ziele\|Finanzielle Ziele]])
-2. Fortschritt Phasenplan ([[05_Phasenplan/Phase 0 Strategic Reset\|Phase 0 Strategic Reset]] → [[05_Phasenplan/Phase 9 Sustainability\|Phase 9 Sustainability]])
+2. Fortschritt Phasenplan ([[05_Phasenplan/Phase 1 Strategic Reset\|Phase 1 Strategic Reset]] → [[05_Phasenplan/Phase 10 Sustainability\|Phase 10 Sustainability]])
 3. Blocker & Entscheidungen
 4. Neue Action Items / Verantwortlichkeiten
 

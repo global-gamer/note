@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rollen/rollenuebersicht/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:06.137+01:00","updated":"2025-12-13T14:41:39.195+01:00"}
+{"dg-publish":true,"permalink":"/03-rollen/rollenuebersicht/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:06.137+01:00","updated":"2025-12-13T16:04:36.974+01:00"}
 ---
 
 # Roles & Responsibilities
@@ -21,12 +21,12 @@ Die Executive Council besteht aus drei Directors auf gleicher Ebene. Darunter fo
 
 ## Division: Sales & Marketing (Growth)
 - **Growth Manager (Media Lead)** – Content, Clips (Instagram/TikTok), Community-Spotlights ([[04_Infrastruktur/Plattformen\|Plattformen]]).
-- **Partnerships Manager** – Sponsoren-Pipeline, Partner-Assets, Vertragskoordination ([[05_Phasenplan/Phase 7 Monetization\|Phase 7 Monetization]]).
+- **Partnerships Manager** – Sponsoren-Pipeline, Partner-Assets, Vertragskoordination ([[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]]).
 - **Merch & VIP Manager** – VIP/Supporter-Programm, Store/Donation-Flows ([[02_Ziele/Finanzielle Ziele\|Finanzielle Ziele]]).
 - **Analyst / CRM Specialist** – KPI-Tracking, Funnel-Reporting, Insights für Kampagnen.
 
 ## Division: Community Experience
-- **Community Manager** – Discord-Struktur, Regelwerk, Moderation Guidelines ([[05_Phasenplan/Phase 1 Infrastructure Build\|Phase 1 Infrastructure Build]], [[05_Phasenplan/Phase 2 Culture Pilot\|Phase 2 Culture Pilot]]).
+- **Community Manager** – Discord-Struktur, Regelwerk, Moderation Guidelines ([[05_Phasenplan/Phase 2 Infrastructure Build\|Phase 2 Infrastructure Build]], [[05_Phasenplan/Phase 3 Culture Pilot\|Phase 3 Culture Pilot]]).
 - **Event Director (Event Lead)** – Format-Entwicklung, Ablaufplanung, Nachbereitung ([[Templates/Event-Template\|Templates/Event-Template]]).
 - **Moderation Captains** – führen Moderations-Teams pro Fokus-Game, pflegen Playbooks.
 - **Moderators / Senior Moderators** – Chat/Voice Moderation, Tickets, Onboarding-Support.

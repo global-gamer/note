@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/domains-und-branding/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:11.658+01:00","updated":"2025-12-13T14:41:39.196+01:00"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/domains-und-branding/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:11.658+01:00","updated":"2025-12-13T16:04:36.971+01:00"}
 ---
 
 # Domains & Branding
@@ -21,6 +21,6 @@ Aufgabenliste für Naming, Visuals und Weiterleitungen. Ergänze konkrete Domain
   - [ ] Schriftarten
   - [ ] Logo-Verwendung (Do/Don’t)
 
-Siehe [[04_Infrastruktur/Plattformen\|Plattformen]] für die Ausspielung und [[02_Ziele/Finanzielle Ziele\|Finanzielle Ziele]] / [[05_Phasenplan/Phase 7 Monetization\|Phase 7 Monetization]] für Partner-Fit.
+Siehe [[04_Infrastruktur/Plattformen\|Plattformen]] für die Ausspielung und [[02_Ziele/Finanzielle Ziele\|Finanzielle Ziele]] / [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]] für Partner-Fit.
 
 ↩ [[Home\|Home]]

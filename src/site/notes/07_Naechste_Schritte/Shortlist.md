@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-naechste-schritte/shortlist/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:34.394+01:00","updated":"2025-12-13T14:41:39.204+01:00"}
+{"dg-publish":true,"permalink":"/07-naechste-schritte/shortlist/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:34.394+01:00","updated":"2025-12-13T16:04:36.982+01:00"}
 ---
 
 # Shortlist – nächste Schritte
@@ -8,10 +8,10 @@
 
 1. [ ] Positionierungstext in einem Satz finalisieren (s. [[01_Vision/Vision 2026\|Vision 2026]])
 2. [ ] Domain registrieren & Weiterleitung auf Discord/Website (s. [[04_Infrastruktur/Domains und Branding\|Domains und Branding]])
-3. [ ] Discord-Struktur & Regelwerk finalisieren (s. [[05_Phasenplan/Phase 1 Infrastructure Build\|Phase 1 Infrastructure Build]])
+3. [ ] Discord-Struktur & Regelwerk finalisieren (s. [[05_Phasenplan/Phase 2 Infrastructure Build\|Phase 2 Infrastructure Build]])
 4. [ ] Hauptspiel und ersten Server produktiv machen (s. [[04_Infrastruktur/Server Setup\|Server Setup]])
 5. [ ] 20–50 Test-Member aktiv onboarden (s. [[02_Ziele/Community Ziele\|Community Ziele]])
-6. [ ] Erste Test-Events im kleinen Kreis fahren (s. [[05_Phasenplan/Phase 2 Culture Pilot\|Phase 2 Culture Pilot]])
+6. [ ] Erste Test-Events im kleinen Kreis fahren (s. [[05_Phasenplan/Phase 3 Culture Pilot\|Phase 3 Culture Pilot]])
 
 Nutze die Shortlist als wöchentlichen Check-in mit dem Team.
 
