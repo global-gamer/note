@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-0-strategic-reset/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/05-phasenplan/phase-0-strategic-reset/"}
 ---
 
 
