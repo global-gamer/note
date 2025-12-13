@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/domains-und-branding/"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/domains-und-branding/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:11.658+01:00","updated":"2025-12-13T14:41:39.196+01:00"}
 ---
 
 # Domains & Branding

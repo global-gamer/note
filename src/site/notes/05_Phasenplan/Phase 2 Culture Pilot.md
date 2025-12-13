@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-2-culture-pilot/"}
+{"dg-publish":true,"phase":2,"period":"Mär 2026","focus":"Culture tests, onboarding scripts, content pilots","primary_owner":"Community Director","secondary_owner":"Event Director","status":"upcoming","status_icon":"⏳","milestones":["4 Mini-Events","Onboarding Scripts","Social Clip Package"],"permalink":"/05-phasenplan/phase-2-culture-pilot/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:45.220+01:00","updated":"2025-12-13T14:41:39.199+01:00"}
 ---
 
 

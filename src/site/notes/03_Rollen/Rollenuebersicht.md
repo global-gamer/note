@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rollen/rollenuebersicht/"}
+{"dg-publish":true,"permalink":"/03-rollen/rollenuebersicht/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:06.137+01:00","updated":"2025-12-13T14:41:39.195+01:00"}
 ---
 
 # Roles & Responsibilities

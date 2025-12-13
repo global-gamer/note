@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/server-setup/"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/server-setup/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:15.934+01:00","updated":"2025-12-13T14:41:39.197+01:00"}
 ---
 
 # Server-Setup & Bots

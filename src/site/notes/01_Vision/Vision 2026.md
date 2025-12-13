@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-vision/vision-2026/"}
+{"dg-publish":true,"permalink":"/01-vision/vision-2026/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:41:52.676+01:00","updated":"2025-12-13T14:41:39.190+01:00"}
 ---
 
 # Vision 2026

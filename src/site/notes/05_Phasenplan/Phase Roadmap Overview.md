@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-roadmap-overview/"}
+{"dg-publish":true,"permalink":"/05-phasenplan/phase-roadmap-overview/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:36:50.133+01:00","updated":"2025-12-13T14:41:39.202+01:00"}
 ---
 
 # Phase Roadmap Overview

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-ziele/finanzielle-ziele/"}
+{"dg-publish":true,"permalink":"/02-ziele/finanzielle-ziele/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:03.400+01:00","updated":"2025-12-13T14:41:39.192+01:00"}
 ---
 
 # Finanzielle Ziele 2026

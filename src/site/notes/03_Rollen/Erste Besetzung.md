@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rollen/erste-besetzung/"}
+{"dg-publish":true,"permalink":"/03-rollen/erste-besetzung/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:08.831+01:00","updated":"2025-12-13T14:41:39.194+01:00"}
 ---
 
 # First Lineup (Placeholders)

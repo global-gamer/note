@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-ziele/orga-ziele/"}
+{"dg-publish":true,"permalink":"/02-ziele/orga-ziele/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:01.115+01:00","updated":"2025-12-13T14:41:39.193+01:00"}
 ---
 
 # Orga-Ziele 2026

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-4-public-launch/"}
+{"dg-publish":true,"phase":4,"period":"Jun–Jul 2026","focus":"Public launch, marketing momentum, supporter rollout","primary_owner":"Growth Director","secondary_owner":"Partnerships Manager","status":"upcoming","status_icon":"⏳","milestones":["Launch Event","Paid Campaign Bundle","Supporter Guild Tiers"],"permalink":"/05-phasenplan/phase-4-public-launch/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:56.862+01:00","updated":"2025-12-13T14:41:39.199+01:00"}
 ---
 
 

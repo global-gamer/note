@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-vision/wettbewerbsanalyse/"}
+{"dg-publish":true,"permalink":"/01-vision/wettbewerbsanalyse/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T19:25:32.163+01:00","updated":"2025-12-13T14:41:39.190+01:00"}
 ---
 
 # Wettbewerbsanalyse

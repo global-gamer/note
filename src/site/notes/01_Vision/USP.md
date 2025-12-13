@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-vision/usp/"}
+{"dg-publish":true,"permalink":"/01-vision/usp/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:41:56.728+01:00","updated":"2025-12-13T15:13:12.760+01:00"}
 ---
 
 # USP & Positionierung 

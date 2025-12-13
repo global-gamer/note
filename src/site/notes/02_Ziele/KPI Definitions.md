@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-ziele/kpi-definitions/"}
+{"dg-publish":true,"permalink":"/02-ziele/kpi-definitions/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T19:25:32.199+01:00","updated":"2025-12-13T14:41:39.192+01:00"}
 ---
 
 # KPI Definitions

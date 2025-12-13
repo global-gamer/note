@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-8-expansion/"}
+{"dg-publish":true,"phase":8,"period":"Mär–Jun 2027","focus":"Additional nodes, regional programs, multilingual support","primary_owner":"Operations Director","secondary_owner":"Community Director","status":"upcoming","status_icon":"⏳","milestones":["Node03 Deployment","Ambassador Program","ROI Reports"],"permalink":"/05-phasenplan/phase-8-expansion/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:14.898+01:00","updated":"2025-12-13T14:41:39.201+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/data-platform/"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/data-platform/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T19:25:32.186+01:00","updated":"2025-12-13T14:41:39.196+01:00"}
 ---
 
 # Data Platform Architecture

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rollen/community-hierarchy/"}
+{"dg-publish":true,"permalink":"/03-rollen/community-hierarchy/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:01:46.487+01:00","updated":"2025-12-13T14:41:39.193+01:00"}
 ---
 
 # Community Hierarchy (English Titles)

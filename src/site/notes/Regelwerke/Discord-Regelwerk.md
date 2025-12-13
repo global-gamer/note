@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regelwerke/discord-regelwerk/"}
+{"dg-publish":true,"permalink":"/regelwerke/discord-regelwerk/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:11:09.039+01:00","updated":"2025-12-13T14:41:39.205+01:00"}
 ---
 
 # Discord Rulebook

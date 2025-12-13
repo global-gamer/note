@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/meeting-template/"}
+{"dg-publish":true,"type":"meeting-note","meeting":null,"cadence":null,"owner":null,"permalink":"/templates/meeting-template/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:48:09.085+01:00","updated":"2025-12-13T14:41:39.207+01:00"}
 ---
 
 

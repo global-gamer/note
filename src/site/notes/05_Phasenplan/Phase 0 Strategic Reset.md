@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-0-strategic-reset/"}
+{"dg-publish":true,"phase":0,"period":"Nov–Dez 2025","focus":"Governance, Budget, Risk","primary_owner":"Growth Director","secondary_owner":"Operations Director","status":"planning","status_icon":"🟢","milestones":["Governance Charter (15 Nov)","Budget & Cashflow Plan (30 Nov)"],"permalink":"/05-phasenplan/phase-0-strategic-reset/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:36.277+01:00","updated":"2025-12-13T14:44:11.292+01:00"}
 ---
 
 

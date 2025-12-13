@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-risiken/risiken-und-gegenmassnahmen/"}
+{"dg-publish":true,"permalink":"/06-risiken/risiken-und-gegenmassnahmen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:31.996+01:00","updated":"2025-12-13T14:41:39.203+01:00"}
 ---
 
 # Risiko- & Fokusliste

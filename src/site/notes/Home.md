@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:39:17.776+01:00","updated":"2025-12-13T15:16:27.116+01:00"}
 ---
 
 # Global-Gamer Network 2026 – Home

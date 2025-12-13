@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-3-soft-launch/"}
+{"dg-publish":true,"phase":3,"period":"Apr–Mai 2026","focus":"Closed beta onboarding, signature events, loadtests","primary_owner":"Community Director","secondary_owner":"Support Captain","status":"upcoming","status_icon":"⏳","milestones":["Invite Campaign","Signature Events","Loadtest + Supporter Pre-Sales"],"permalink":"/05-phasenplan/phase-3-soft-launch/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:51.673+01:00","updated":"2025-12-13T14:41:39.199+01:00"}
 ---
 
 

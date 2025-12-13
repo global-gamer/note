@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regelwerke/privacy-notice/"}
+{"dg-publish":true,"permalink":"/regelwerke/privacy-notice/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:11:30.990+01:00","updated":"2025-12-13T14:41:39.206+01:00"}
 ---
 
 # Privacy Notice (Germany / EU GDPR)

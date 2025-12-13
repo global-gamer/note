@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/server-change-template/"}
+{"dg-publish":true,"type":"server-change","change-id":null,"status":"draft","owner":null,"related-phase":null,"permalink":"/templates/server-change-template/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:48:14.162+01:00","updated":"2025-12-13T14:41:39.207+01:00"}
 ---
 
 

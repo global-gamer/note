@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-9-sustainability/"}
+{"dg-publish":true,"phase":9,"period":"Jul–Dez 2027","focus":"Resilience, innovation, ESG & succession","primary_owner":"Executive Council","secondary_owner":"Ambassadors Council","status":"upcoming","status_icon":"⏳","milestones":["ESG & Compliance Audit","New Vertical Experiments","Impact Report"],"permalink":"/05-phasenplan/phase-9-sustainability/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:20.440+01:00","updated":"2025-12-13T14:41:39.201+01:00"}
 ---
 
 

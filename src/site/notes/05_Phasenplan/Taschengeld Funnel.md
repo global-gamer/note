@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/taschengeld-funnel/"}
+{"dg-publish":true,"permalink":"/05-phasenplan/taschengeld-funnel/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T13:21:20.179+01:00","updated":"2025-12-13T14:41:39.202+01:00"}
 ---
 
 # Taschengeld Funnel - Hypothese

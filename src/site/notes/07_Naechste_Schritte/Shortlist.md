@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-naechste-schritte/shortlist/"}
+{"dg-publish":true,"permalink":"/07-naechste-schritte/shortlist/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:34.394+01:00","updated":"2025-12-13T14:41:39.204+01:00"}
 ---
 
 # Shortlist – nächste Schritte

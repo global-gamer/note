@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-7-monetization/"}
+{"dg-publish":true,"phase":7,"period":"Dez 2026–Feb 2027","focus":"Monetization engine, partner ops, finance automation","primary_owner":"Growth Director","secondary_owner":"Finance Lead","status":"upcoming","status_icon":"⏳","milestones":["Supporter Guild 2.0","Sponsoring Ops Desk","Annual Event / Charity Cup"],"permalink":"/05-phasenplan/phase-7-monetization/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:10.950+01:00","updated":"2025-12-13T14:41:39.201+01:00"}
 ---
 
 

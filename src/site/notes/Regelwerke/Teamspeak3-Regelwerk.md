@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regelwerke/teamspeak3-regelwerk/"}
+{"dg-publish":true,"permalink":"/regelwerke/teamspeak3-regelwerk/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:11:13.865+01:00","updated":"2025-12-13T14:41:39.206+01:00"}
 ---
 
 # TeamSpeak 3 Rulebook

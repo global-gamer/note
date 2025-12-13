@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rollen/projektleitungen/"}
+{"dg-publish":true,"permalink":"/03-rollen/projektleitungen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:01:41.400+01:00","updated":"2025-12-13T14:41:39.194+01:00"}
 ---
 
 # Executive Council Tracks

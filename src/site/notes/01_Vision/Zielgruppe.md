@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-vision/zielgruppe/"}
+{"dg-publish":true,"permalink":"/01-vision/zielgruppe/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:41:54.729+01:00","updated":"2025-12-13T14:41:39.191+01:00"}
 ---
 
 # Zielgruppe

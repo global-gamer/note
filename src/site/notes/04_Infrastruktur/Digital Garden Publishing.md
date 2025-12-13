@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/digital-garden-publishing/"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/digital-garden-publishing/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T14:42:46.325+01:00","updated":"2025-12-13T14:48:11.493+01:00"}
 ---
 
 # Digital Garden Publishing (Obsidian)

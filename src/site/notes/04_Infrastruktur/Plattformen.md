@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/plattformen/"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/plattformen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:13.606+01:00","updated":"2025-12-13T14:41:39.197+01:00"}
 ---
 
 # Plattformen & Community Touchpoints

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/event-template/"}
+{"dg-publish":true,"type":"event-log","status":"planned","phase":null,"owner":null,"permalink":"/templates/event-template/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:48:05.768+01:00","updated":"2025-12-13T14:41:39.206+01:00"}
 ---
 
 

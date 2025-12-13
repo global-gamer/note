@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/phase-1-infrastructure-build/"}
+{"dg-publish":true,"phase":1,"period":"Jan–Feb 2026","focus":"Infra build, Panel, node01","primary_owner":"Operations Director","secondary_owner":"Ops Engineer","status":"in-progress","status_icon":"🟠","milestones":["node01 live","Monitoring live","MVP Platforms ready"],"permalink":"/05-phasenplan/phase-1-infrastructure-build/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:40.981+01:00","updated":"2025-12-13T14:41:39.198+01:00"}
 ---
 
 

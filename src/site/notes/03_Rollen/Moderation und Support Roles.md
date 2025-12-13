@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rollen/moderation-und-support-roles/"}
+{"dg-publish":true,"permalink":"/03-rollen/moderation-und-support-roles/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:04:28.235+01:00","updated":"2025-12-13T14:41:39.194+01:00"}
 ---
 
 # Moderation & Support Roles

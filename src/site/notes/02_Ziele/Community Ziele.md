@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-ziele/community-ziele/"}
+{"dg-publish":true,"permalink":"/02-ziele/community-ziele/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:41:59.246+01:00","updated":"2025-12-13T14:41:39.191+01:00"}
 ---
 
 # Community-Ziele 2026
