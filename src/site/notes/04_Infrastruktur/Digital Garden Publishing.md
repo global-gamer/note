@@ -31,6 +31,20 @@ Wir verwenden das Obsidian-Plugin **Digital Garden** als Publishing-Layer. Die w
 
 > Checkboxen wie `dg-publish`, `dg-home`, `dg-pinned`, `dg-hide` erscheinen automatisch als schaltbare Felder im Frontmatter-Panel von Obsidian.
 
+### UI-Module & Seitenleisten
+Die Plugin-Einstellungen (`Settings → Digital Garden → Note Settings`) erlauben pro Note bzw. als Default zusätzliche UI-Elemente:
+
+| Toggle / Frontmatter | Wirkung | Hinweis |
+| --- | --- | --- |
+| `dg-show-file-tree: true` | Explorer / Seitenleiste mit allen veröffentlichten Notes. | Standardmäßig global aktiv (siehe `.obsidian/plugins/digitalgarden/data.json`). |
+| `dg-enable-search: true` | Globale Suchleiste + Shortcut (`/` bzw. `Cmd/Ctrl + K`). | Erscheint automatisch oberhalb des Seiteninhalts. |
+| `dg-show-toc: true` | Table of Contents, generiert aus Überschriften. | Desktop: rechte Sidebar, mobil: am Seitenende. |
+| `dg-show-backlinks: true` | Backlinks-Liste unterhalb des TOC. | Nutzt Obsidian-Linkgraph. |
+| `dg-show-local-graph: true` | Lokale Graph-Visualisierung. | Optional zuschalten, wenn gewünscht. |
+| `dg-show-tags: true` | Zeigt Tags aus dem Frontmatter. | In Kombination mit Suche klickbar. |
+
+Per Frontmatter lässt sich jedes Modul überschreiben, z. B. `dg-show-file-tree: false`, wenn einzelne Seiten minimalistisch bleiben sollen.
+
 ## Publishing-Workflow
 1. Note erstellen/aktualisieren.
 2. Sicherstellen, dass `dg-publish` aktiviert ist (Standard) und sich keine vertraulichen Daten darin befinden.
