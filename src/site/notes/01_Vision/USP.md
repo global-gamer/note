@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-vision/usp/"}
 ---
 
-# USP & Positionierung
+# USP & Positionierung 
 
 Die Alleinstellungsmerkmale machen klar, warum Spieler bei GG-N bleiben sollen.
 
