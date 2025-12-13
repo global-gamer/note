@@ -26,6 +26,8 @@ Willkommen im GG-N Obsidian-Wiki. Dieses Notebook bündelt Vision, KPIs, Rollen,
 - [[04_Infrastruktur/Domains und Branding\|Domains und Branding]]
 - [[04_Infrastruktur/Plattformen\|Plattformen]]
 - [[04_Infrastruktur/Server Setup\|Server Setup]]
+- [[04_Infrastruktur/Data Platform\|Data Platform Architecture]]
+- [[04_Infrastruktur/Digital Garden Publishing\|Digital Garden Publishing Guide]]
 
 ## Fahrplan 2026+
 - [[05_Phasenplan/Phase 0 Strategic Reset\|Phase 0 Strategic Reset]]
@@ -39,6 +41,7 @@ Willkommen im GG-N Obsidian-Wiki. Dieses Notebook bündelt Vision, KPIs, Rollen,
 - [[05_Phasenplan/Phase 8 Expansion\|Phase 8 Expansion]]
 - [[05_Phasenplan/Phase 9 Sustainability\|Phase 9 Sustainability]]
 - [[05_Phasenplan/Phase Roadmap Overview\|Phase Roadmap Overview]]
+- [[05_Phasenplan/Taschengeld Funnel\|Taschengeld Funnel Playbook]]
 
 ## Risiken & Actionables
 - [[06_Risiken/Risiken und Gegenmassnahmen\|Risiken & Gegenmaßnahmen]]
