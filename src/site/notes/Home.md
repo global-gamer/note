@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:39:17.776+01:00","updated":"2025-12-13T16:04:26.199+01:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:39:17.776+01:00","updated":"2025-12-13T16:15:29.439+01:00"}
 ---
 
 # Global-Gamer Network 2026 – Home
@@ -46,7 +46,7 @@ Willkommen im GG-N Obsidian-Wiki. Dieses Notebook bündelt Vision, KPIs, Rollen,
 
 ## Growth Playbooks & Experimente
 - [[05_Phasenplan/Taschengeld Funnel\|Taschengeld Funnel Playbook]]
-- (Weitere Playbooks folgen – nutze dieses Kapitel für neue Konzepte.)
+- [[05_Phasenplan/Playbook Backlog\|Playbook Backlog & Pipeline]]
 
 ## Risiken & Execution
 - [[06_Risiken/Risiken und Gegenmassnahmen\|Risiken & Gegenmaßnahmen]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/server-setup/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:15.934+01:00","updated":"2025-12-13T16:04:36.971+01:00"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/server-setup/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:15.934+01:00","updated":"2025-12-13T16:15:45.421+01:00"}
 ---
 
 # Server-Setup & Bots
@@ -62,6 +62,12 @@
    - Sheet pflegen: RAM, CPU, Storage, belegte Slots.
    - Alert, wenn Auslastung > 75 % → nächste Node vorbereiten.
 7. **Dokumentation:** Für jeden Node eigenständige Notiz im Obsidian oder Pterodactyl Panel (z. B. `Notes/node02.md`) mit Hardware, Wartungsfenster, Ansprechpartner.
+
+### Node03+ Roadmap & IaC
+- **Node03 (Events/IRL Pods)**: Geplant für [[05_Phasenplan/Phase 9 Expansion\|Phase 9 Expansion]] – dedizierter Event/Pop-Up Node mit burst capacity, Deploy via Terraform Module (Pterodactyl + Docker Host). Owner: Ops Engineer + Tech Lead.
+- **IaC Plan**: Terraform für DNS, Proxmox, Pterodactyl Nodes; Ansible Playbooks für Bot-VMs + Monitoring Agents. Ziel: Reprovision < 60 Min.
+- **Observability Upgrade**: Prometheus + Loki + Grafana Tempo Stack (Phase 6) → vollständige Logs, Traces und Alerts. Alertmanager routet On-Call (Discord #ops-alerts + SMS).
+- **Incident Response**: Neue Note „Incident Playbook“ (TODO) + Postmortem Template (Anhang ans Meeting-Template) – Owner: Operations Director.
 
 ## Wartung & Backups
 - **Backups (Proxmox Backup Client):** Alle Nodes werden mittels `proxmox-backup-client` gesichert. Beispielskript (`/usr/local/bin/ggn-backup.sh`):

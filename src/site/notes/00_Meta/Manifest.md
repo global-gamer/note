@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-meta/manifest/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:00:35.664+01:00","updated":"2025-12-13T16:06:37.766+01:00"}
+{"dg-publish":true,"permalink":"/00-meta/manifest/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:00:35.664+01:00","updated":"2025-12-13T16:15:37.092+01:00"}
 ---
 
 # Manifest – Herkunft, Haltung & Ambition
@@ -33,6 +33,25 @@ Das GG-N Manifest ist unser CEO-Briefing an die Zukunft: Es hält fest, woher wi
 3. **Ops & Infrastructure** – Pterodactyl, Nodes, Automations nach [[04_Infrastruktur/Server Setup\|Server Setup]] + [[04_Infrastruktur/Data Platform\|04_Infrastruktur/Data Platform]].
 4. **Compliance & Trust** – Risiko-Backlog + Gegenmaßnahmen aus [[06_Risiken/Risiken und Gegenmassnahmen\|Risiken und Gegenmassnahmen]], Privacy-Einhaltung, transparente VIP-Programme.
 5. **Innovation Pods** – Dedizierte Slots für neue Playbooks (Taschengeld Funnel, Creator Labs) – dokumentiert im Abschnitt „Growth Playbooks“.
+
+## Lessons & Legacy Log
+| Quartal | Insight | Impact |
+| --- | --- | --- |
+| Q1 2025 | Discord-Warteliste treibt bessere Member-Qualität als offene Invites. | Warteliste bleibt Standard (Phase 3 Pilot). |
+| Q2 2025 | Ticket-Automation reduzierte SLA von 24h auf 6h. | Invest in Support SOPs priorisiert. |
+| Q3 2025 | Early Beta Events steigern Retention; Solo-Events floppten. | Nur Squad-Events in Phase 4 Rollouts. |
+| Q4 2025 | Ops-Team-Shadowing senkte Onboarding-Zeit für Mods um 30 %. | Pflichtprogramm für neue Helpers. |
+
+> Jede Phase finalisiert Lessons Learned im Meeting-Template; relevante Erkenntnisse landen hier.
+
+## Future Bets
+| Initiative | These | Phase Slot | Next Step |
+| --- | --- | --- | --- |
+| Creator Labs | Kuratierte Creator-Booster bringen Sponsoring + Community Reach. | [[05_Phasenplan/Phase 7 Growth Sprint\|Phase 7 Growth Sprint]] | Playbook schreiben (siehe [[05_Phasenplan/Playbook Backlog\|05_Phasenplan/Playbook Backlog]]) |
+| Education Hub | Lernquests + Eltern-Workshops → Trust + neue Revenue Streams. | [[05_Phasenplan/Phase 10 Sustainability\|Phase 10 Sustainability]] | Pilot-Kit für Eltern entwickeln. |
+| Esports Academy | Coaching & Ladder stärken Retention + Paid Offerings. | [[05_Phasenplan/Phase 9 Expansion\|Phase 9 Expansion]] | Partner-Scouting + Curriculum draft. |
+| IRL Pop-ups | Offline Meetups stärken Loyalität & PR. | [[05_Phasenplan/Phase 6 Stabilize Automate\|Phase 6 Stabilize Automate]] | Budgetschätzung + Location Check. |
+| Media Network | Eigene Content-Serie als Awareness Engine. | [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]] | Media Kit 3.0 planen. |
 
 ## 10-Phasen-Cadence
 - **Phasen 1–3** = Fundament (Governance, Infra, Kultur). Fokus: Struktur, Tooling, Werte.
