@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:39:17.776+01:00","updated":"2025-12-13T16:15:29.439+01:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:39:17.776+01:00","updated":"2025-12-13T16:38:04.018+01:00"}
 ---
 
 # Global-Gamer Network 2026 – Home
@@ -19,6 +19,8 @@ Willkommen im GG-N Obsidian-Wiki. Dieses Notebook bündelt Vision, KPIs, Rollen,
 - [[03_Rollen/Community Hierarchy\|Community Hierarchy]]
 - [[03_Rollen/Moderation und Support Roles\|Moderation & Support Roles]]
 - [[03_Rollen/Erste Besetzung\|Erste Besetzung]]
+- [[03_Rollen/Deputy Development Tracker\|Deputy Development Tracker]]
+- [[03_Rollen/Lessons Hub\|Lessons Hub]]
 - [[02_Ziele/Community Ziele\|Community Ziele]]
 - [[02_Ziele/Orga Ziele\|Orga Ziele]]
 - Regelwerke: [[Regelwerke/GG-N-AGB (DE)\|AGB (DE)]], [[Regelwerke/Privacy-Notice\|Privacy Notice]], [[Regelwerke/Forum-Regelwerk\|Forum]], [[Regelwerke/Discord-Regelwerk\|Discord]], [[Regelwerke/Teamspeak3-Regelwerk\|TeamSpeak]]
@@ -47,11 +49,14 @@ Willkommen im GG-N Obsidian-Wiki. Dieses Notebook bündelt Vision, KPIs, Rollen,
 ## Growth Playbooks & Experimente
 - [[05_Phasenplan/Taschengeld Funnel\|Taschengeld Funnel Playbook]]
 - [[05_Phasenplan/Playbook Backlog\|Playbook Backlog & Pipeline]]
+- [[05_Phasenplan/Creator Labs Playbook\|Creator Labs]]
+- [[05_Phasenplan/IRL Pop-up Plan\|IRL Pop-up Plan]]
 
 ## Risiken & Execution
 - [[06_Risiken/Risiken und Gegenmassnahmen\|Risiken & Gegenmaßnahmen]]
 - [[07_Naechste_Schritte/Shortlist\|Nächste Schritte (Shortlist)]]
 - [[Templates/Meeting-Template\|Meeting-Template]]
 - [[Templates/Event-Template\|Event-Template (Event-Log)]]
+- [[07_Naechste_Schritte/State of the Guild Deck\|State of the Guild Deck]]
 
 > Tipp: Nutze die Obsidian-Backlinks oder verlinke neue Meeting-Notizen direkt mit den bestehenden Seiten, um Wissen aktuell zu halten.

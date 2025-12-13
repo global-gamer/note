@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/server-setup/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:15.934+01:00","updated":"2025-12-13T16:15:45.421+01:00"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/server-setup/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:15.934+01:00","updated":"2025-12-13T16:37:03.046+01:00"}
 ---
 
 # Server-Setup & Bots
@@ -68,6 +68,7 @@
 - **IaC Plan**: Terraform für DNS, Proxmox, Pterodactyl Nodes; Ansible Playbooks für Bot-VMs + Monitoring Agents. Ziel: Reprovision < 60 Min.
 - **Observability Upgrade**: Prometheus + Loki + Grafana Tempo Stack (Phase 6) → vollständige Logs, Traces und Alerts. Alertmanager routet On-Call (Discord #ops-alerts + SMS).
 - **Incident Response**: Neue Note „Incident Playbook“ (TODO) + Postmortem Template (Anhang ans Meeting-Template) – Owner: Operations Director.
+  - Siehe [[04_Infrastruktur/Incident Playbook\|04_Infrastruktur/Incident Playbook]] für Escalation Tree, Postmortem und On-Call Rotation.
 
 ## Wartung & Backups
 - **Backups (Proxmox Backup Client):** Alle Nodes werden mittels `proxmox-backup-client` gesichert. Beispielskript (`/usr/local/bin/ggn-backup.sh`):
