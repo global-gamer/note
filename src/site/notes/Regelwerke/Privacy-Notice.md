@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regelwerke/privacy-notice/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:11:30.990+01:00","updated":"2025-12-13T14:41:39.206+01:00"}
+{"dg-publish":true,"permalink":"/regelwerke/privacy-notice/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:11:30.990+01:00","updated":"2025-12-13T17:04:13.362+01:00"}
 ---
 
 # Privacy Notice (Germany / EU GDPR)
@@ -9,7 +9,7 @@
 ## 1. Verantwortlicher
 - Projekt: Global-Gamer Network (GG-N)
 - Kontakt: privacy@gg-n.de (Platzhalter)
-- Ansprechpartner: Growth Director & Data/Insights Lead
+- Ansprechpartner: Growth Captain & Data/Insights Lead
 
 ## 2. Kategorien personenbezogener Daten
 - **Account-Daten:** Discord-ID, Forum-Handle, TS3-ID, E-Mail bei Bewerbungen.
@@ -46,7 +46,7 @@
 ## 7. Sicherheit
 - Zugriffsbeschränkungen (Role-Based Access) für Staff.
 - Regelmäßige Passwort- und 2FA-Checks bei direkten Accounts.
-- Dokumentierte Incident-Response-Prozesse (vgl. [[03_Rollen/Projektleitungen#Operations Director (IT & Staff)\|Projektleitungen#Operations Director (IT & Staff)]], [[Templates/Server-Change-Template\|Templates/Server-Change-Template]]).
+- Dokumentierte Incident-Response-Prozesse (vgl. [[03_Rollen/Projektleitungen#Ops Captain (IT & Crew)\|Projektleitungen#Ops Captain (IT & Crew)]], [[Templates/Server-Change-Template\|Templates/Server-Change-Template]]).
 
 ## 8. Internationale Datenübermittlung
 - Discord und andere US-Dienstleister verarbeiten Daten außerhalb der EU; GG-N nutzt Standardvertragsklauseln/geeignete Garantien der Anbieter.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-meta/projektueberblick/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:41:49.918+01:00","updated":"2025-12-13T14:41:39.189+01:00"}
+{"dg-publish":true,"permalink":"/00-meta/projektueberblick/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:41:49.918+01:00","updated":"2025-12-13T17:00:44.298+01:00"}
 ---
 
 # Projektüberblick
@@ -8,7 +8,7 @@
 
 ## Eckdaten
 - **Projektname:** Global-Gamer Network
-- **Executive Council Contact:** Etzala (Community Director a.i.)
+- **Executive Council Contact:** Etzala (Community Captain a.i.)
 - **Status:** Planung
 - **Version:** 0.1
 

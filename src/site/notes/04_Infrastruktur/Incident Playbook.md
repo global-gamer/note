@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/incident-playbook/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:36:57.201+01:00","updated":"2025-12-13T16:36:57.201+01:00"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/incident-playbook/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:36:57.201+01:00","updated":"2025-12-13T17:05:46.351+01:00"}
 ---
 
 # Incident & On-Call Playbook
 
-Standard Operating Procedure für Ausfälle, Eskalationen und Postmortems. Owner: Operations Director, Deputies: Ops Engineer + Support Captain.
+Standard Operating Procedure für Ausfälle, Eskalationen und Postmortems. Owner: Ops Captain, Deputies: Server Pilot + Player Support Lead.
 
 ## Escalation Tree
 1. **Tier 0 (Alert Trigger)** – Prometheus/Alertmanager, Bot Monitoring, Community Reports.
-2. **Tier 1 (On-Call Engineer)** – Ops Engineer (Rotation). Reaktionszeit < 10 Min.
-3. **Tier 2 (Director Escalation)** – Operations Director + Backup (Growth/Community Directors bei Impact auf Member).
+2. **Tier 1 (On-Call Engineer)** – Server Pilot (Rotation). Reaktionszeit < 10 Min.
+3. **Tier 2 (Captain Escalation)** – Ops Captain + Backup (Growth/Community Captains bei Impact auf Member).
 4. **Tier 3 (Executive Council)** – Nur bei Datenverlust, Security, Reputationsrisiko.
 
 Channel-Matrix:
@@ -50,10 +50,10 @@ Channel-Matrix:
 Alle Postmortems im Vault (Ordner `04_Infrastruktur/Postmortems`) ablegen und in [[Templates/Meeting-Template\|Templates/Meeting-Template]] verlinken.
 
 ## On-Call Rotation
-- **Week 1**: Ops Engineer
+- **Week 1**: Server Pilot
 - **Week 2**: Tech Lead Deputy
-- **Week 3**: Operations Director (fallback)
-- **Support Captain** übernimmt Kommunikation (Ticket Updates, Community Messaging).
+- **Week 3**: Ops Captain (fallback)
+- **Player Support Lead** übernimmt Kommunikation (Ticket Updates, Community Messaging).
 - Kalender (Google/Obsidian) pflegen, On-Call Handover im Meeting ansprechen.
 
 ## Tooling & Automation
@@ -64,7 +64,7 @@ Alle Postmortems im Vault (Ordner `04_Infrastruktur/Postmortems`) ablegen und in
 
 ## Training & Drills
 - Quartalsweise „Game Day“ (Chaos Test) – Node Fail, Discord Bot Outage, Payment Error.
-- Shadowing für Deputies (Senior Mod, Creator Manager) um cross-division Impact zu verstehen.
+- Shadowing für Deputies (Senior Guardian, Creator Liaison) um cross-division Impact zu verstehen.
 - Lessons Learned in [[03_Rollen/Lessons Hub\|Lessons Hub]] sammeln → Manifest aktualisieren.
 
 ↩ [[04_Infrastruktur/Server Setup\|Server Setup]] · [[Templates/Meeting-Template\|Templates/Meeting-Template]] · [[Home\|Home]]

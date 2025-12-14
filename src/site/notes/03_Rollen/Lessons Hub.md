@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-rollen/lessons-hub/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:37:56.281+01:00","updated":"2025-12-13T16:37:56.281+01:00"}
+{"dg-publish":true,"permalink":"/03-rollen/lessons-hub/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:37:56.281+01:00","updated":"2025-12-13T17:01:25.478+01:00"}
 ---
 
 # Lessons Hub
@@ -13,7 +13,7 @@ Sammlung wichtiger Learnings aus Phasen, Meetings und Postmortems. Dient als Sho
 ### 2025 Q1
 - **Phase 3 Culture Pilot** – Squad-Events outperform Solo → alle Events mit Teams planen.
 - **Support Ops** – Ticket Automation reduzierte SLA deutlich, invest in macro library.
-- **Discord Onboarding** – Warteliste + Warm Intro von Helpers erhöht Retention, Template aktualisiert.
+- **Discord Onboarding** – Warteliste + Warm Intro von Welcome Guides erhöht Retention, Template aktualisiert.
 
 ### 2025 Q2
 - (Platzhalter) – Nach Phase 4/5 Retros füllen.

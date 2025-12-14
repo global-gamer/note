@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/irl-pop-up-plan/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:37:28.550+01:00","updated":"2025-12-13T16:37:28.550+01:00"}
+{"dg-publish":true,"permalink":"/05-phasenplan/irl-pop-up-plan/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:37:28.550+01:00","updated":"2025-12-13T17:05:14.643+01:00"}
 ---
 
 # IRL Pop-up Plan
@@ -19,7 +19,7 @@ Mini-Events / Meetups zur Community-Bindung und Sponsor-Aktivierung. Dient als B
    - Creator Showcase (Hybrid) – Live-Podcast, Workshops, Merch Drop.
 2. **Programmpunkte**
    - Welcome + Manifest Reminder (Heritage Story, [[00_Meta/Manifest\|00_Meta/Manifest]]).
-   - Panels/Workshops (Moderation Captain + Creator).
+   - Panels/Workshops (Guardian Lead + Creator).
    - Taschengeld Funnel Demo / Supporter Perks (opt-in).
    - Partner Booths (Hardware, ISP, Merch).
 
@@ -27,10 +27,10 @@ Mini-Events / Meetups zur Community-Bindung und Sponsor-Aktivierung. Dient als B
 - **Location**: Coworking Space / eSports Bar / Pop-up Store.
 - **Budget**: 3–5k € pro Event (Location, Technik, Catering, Travel).
 - **Team Roles**:
-  - Event Director (Owner)
-  - Ops Engineer (Tech Setup, streaming)
-  - Community Manager (Onsite host)
-  - Creator Manager (talent wrangling)
+  - Event Producer (Owner)
+  - Server Pilot (Tech Setup, streaming)
+  - Community Host (Onsite host)
+  - Creator Liaison (talent wrangling)
 - **Timeline**:
   - T-8 Wochen: Location sichern, Sponsoren pitch.
   - T-6 Wochen: Ticketing (Eventbrite/Discord), Promo Plan.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"phase":5,"period":"Jun–Jul 2026","focus":"Public launch, marketing momentum, supporter rollout","primary_owner":"Growth Director","secondary_owner":"Partnerships Manager","status":"upcoming","status_icon":"⏳","milestones":["Launch Event","Paid Campaign Bundle","Supporter Guild Tiers"],"permalink":"/05-phasenplan/phase-5-public-launch/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:56.862+01:00","updated":"2025-12-13T16:05:45.661+01:00"}
+{"dg-publish":true,"phase":5,"period":"Jun–Jul 2026","focus":"Public launch, marketing momentum, supporter rollout","primary_owner":"Growth Captain","secondary_owner":"Partner Scout","status":"upcoming","status_icon":"⏳","milestones":["Launch Event","Paid Campaign Bundle","Supporter Guild Tiers"],"permalink":"/05-phasenplan/phase-5-public-launch/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:56.862+01:00","updated":"2025-12-13T17:01:25.482+01:00"}
 ---
 
 
@@ -25,12 +25,12 @@
 ## Milestones & Owners
 | Deliverable | Owner |
 | --- | --- |
-| Public Launch Event (Stream + Watch Parties) | Event Director + Growth Director |
-| Marketing Campaign Bundle (Discord Ads, Reddit, Influencer) | Growth Manager |
+| Public Launch Event (Stream + Watch Parties) | Event Producer + Growth Captain |
+| Marketing Campaign Bundle (Discord Ads, Reddit, Influencer) | Content Captain |
 | Website Relaunch mit Live KPIs & Partner CTA | Web Lead |
-| Node02 Procurement & Readiness Checklist | Operations Director |
-| Supporter Guild Tier Launch (3 Tiers) | Merch & VIP Manager |
-| Sponsorship Outreach (8 Leads) | Partnerships Manager |
+| Node02 Procurement & Readiness Checklist | Ops Captain |
+| Supporter Guild Tier Launch (3 Tiers) | Supporter Lead |
+| Sponsorship Outreach (8 Leads) | Partner Scout |
 
 ## Notes
 - Track Launch KPIs im Data Studio Dashboard + Screenshot in Meeting Notes.

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:39:17.776+01:00","updated":"2025-12-13T16:38:04.018+01:00"}
+{"dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:39:17.776+01:00","updated":"2025-12-13T18:57:30.000+01:00"}
 ---
 
-# Global-Gamer Network 2026 – Home
+# Global-Gamer Network – Home
 
 Willkommen im GG-N Obsidian-Wiki. Dieses Notebook bündelt Vision, KPIs, Rollen, Infrastruktur und Fahrplan für das Projekt 2026 und gibt direkte Sprungmarken in alle Detail-Notizen.
 
@@ -15,7 +15,7 @@ Willkommen im GG-N Obsidian-Wiki. Dieses Notebook bündelt Vision, KPIs, Rollen,
 
 ## People & Governance
 - [[03_Rollen/Rollenuebersicht\|Rollenübersicht]]
-- [[03_Rollen/Projektleitungen\|Project Leadership Tracks]]
+- [[03_Rollen/Projektleitungen\|Captain Playbooks]]
 - [[03_Rollen/Community Hierarchy\|Community Hierarchy]]
 - [[03_Rollen/Moderation und Support Roles\|Moderation & Support Roles]]
 - [[03_Rollen/Erste Besetzung\|Erste Besetzung]]
@@ -31,6 +31,7 @@ Willkommen im GG-N Obsidian-Wiki. Dieses Notebook bündelt Vision, KPIs, Rollen,
 - [[04_Infrastruktur/Server Setup\|Server Setup]]
 - [[04_Infrastruktur/Data Platform\|Data Platform Architecture]]
 - [[04_Infrastruktur/Digital Garden Publishing\|Digital Garden Publishing Guide]]
+- [[04_Infrastruktur/Incident Playbook\|Incident & On-Call Playbook]]
 - [[Templates/Server-Change-Template\|Server-Change-Template]]
 
 ## Roadmap 2026+

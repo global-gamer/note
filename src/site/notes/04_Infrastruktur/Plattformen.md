@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/plattformen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:13.606+01:00","updated":"2025-12-13T16:04:36.972+01:00"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/plattformen/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:13.606+01:00","updated":"2025-12-13T17:01:25.474+01:00"}
 ---
 
 # Plattformen & Community Touchpoints
@@ -37,15 +37,15 @@ Ausbaustufen für Discord, Forum, Website und Social Media. Ziel: direkte Einzah
   - [ ] SEO-Basics: Meta Tags, OG-Images (aus [[04_Infrastruktur/Domains und Branding\|Domains und Branding]]).
 - **Forms & Ticket-Integration:**
   - Bewerbungsformular → Sends POST → Cloud Function → erzeugt Discord Ticket (Ticket Tool API) + Eintrag im Forum.
-  - Newsletter-Signups → ConvertKit/Mailcoach, Auto-Tag „Prospect“, an Growth Director Report.
-  - VIP/Supporter Form → webhook → Merch & VIP Manager + CRM Sheet.
+  - Newsletter-Signups → ConvertKit/Mailcoach, Auto-Tag „Prospect“, an Growth Captain Report.
+  - VIP/Supporter Form → webhook → Supporter Lead + CRM Sheet.
 
 ## Social Media & Content Loop
 - **Primärkanäle:** Instagram/TikTok (Clips), optional X/Twitter für News, YouTube Shorts für Recaps.
 - **Ziele:** Jede Woche 1–2 Clips aus Events (→ KPI „Mind. 1 Event/Woche“).
 - **Tasks:**
   - [ ] Content Calendar (Figma/Notion) – Format: Highlights, Member Spotlight, Behind the Scenes.
-  - [ ] UGC Guidelines: Member können Clips einreichen → Growth Manager kuratiert.
+  - [ ] UGC Guidelines: Member können Clips einreichen → Content Captain kuratiert.
   - [ ] Cross-Promo mit Creator Alliance (siehe [[03_Rollen/Community Hierarchy#Partner & Supporter Groups\|Community Hierarchy#Partner & Supporter Groups]]).
   - [ ] Track KPIs (Views, CTR auf Discord/Website) und in [[02_Ziele/Community Ziele\|Community Ziele]] spiegeln.
 - **Automation:** Zapier/Integromat Workflows → Social Stats -> Data Warehouse (Google Sheets/Notion DB). Wöchentlicher Export in Meeting-Note.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/taschengeld-funnel/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T13:21:20.179+01:00","updated":"2025-12-13T16:04:36.980+01:00"}
+{"dg-publish":true,"permalink":"/05-phasenplan/taschengeld-funnel/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T13:21:20.179+01:00","updated":"2025-12-13T17:05:14.644+01:00"}
 ---
 
 # Taschengeld Funnel - Hypothese
@@ -62,7 +62,7 @@ Meta-Notiz zu einem aggressiveren, spielerischen Monetarisierungskonzept für j�
 
 ## Loyalty- & Prestige-Layer
 - **Badge Tree**: Für jede 10 € Spend gibt es ein neues Wappen; erst ab Bronze kann man im Town Square angezeigt werden.
-- **VIP Hotline**: Streamerlings mit ≥25 € Monatsumsatz bekommen direkten Draht zu Creator Manager inklusive Vorschlagsrecht für neue Cosmetics.
+- **VIP Hotline**: Streamerlings mit ≥25 € Monatsumsatz bekommen direkten Draht zu Creator Liaison inklusive Vorschlagsrecht für neue Cosmetics.
 - **Guild Thrones**: Top-3 Gilden einer Season erhalten reale Trophäen (3D gedruckt) per Post, finanziert über Whale Tier.
 - **Legacy Ledger**: Historie aller Käufe, die wöchentlich im Profil scrollt; erzeugt Nostalgie und Rechtfertigung für weitere Ausgaben.
 
@@ -86,8 +86,8 @@ Meta-Notiz zu einem aggressiveren, spielerischen Monetarisierungskonzept für j�
 - Experiment Slots: Zwei Offers pro Segment kontinuierlich A/B testen (Preis, Timer, Copy).
 
 ## Ops & Rollen
-- Growth Director owns Funnel; Monetization PM konfiguriert Offers.
-- CRM Specialist baut Rotationen, Creator Manager pflegt Sticker-Programm.
+- Growth Captain owns Funnel; Monetization PM konfiguriert Offers.
+- CRM Specialist baut Rotationen, Creator Liaison pflegt Sticker-Programm.
 - Support/Moderation team trainiert Sprachregelungen und lenkt Beschwerden in Elternmodus.
 
 ## Compliance / Cover Story

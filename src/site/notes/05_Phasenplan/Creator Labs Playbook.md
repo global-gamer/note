@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/creator-labs-playbook/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:37:15.672+01:00","updated":"2025-12-13T16:37:15.672+01:00"}
+{"dg-publish":true,"permalink":"/05-phasenplan/creator-labs-playbook/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:37:15.672+01:00","updated":"2025-12-13T17:05:14.646+01:00"}
 ---
 
 # Creator Labs Playbook – Hypothese
@@ -9,7 +9,7 @@ Programm für Creator-Booster, Workshops und Co-Creation. Ziel: Sponsoring-Pipel
 ## Zielsetzung
 - **Phase Gate:** [[05_Phasenplan/Phase 7 Growth Sprint\|Phase 7 Growth Sprint]] (Pilot) → Skalierung in [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]].
 - **KPI Targets:** 4 Creator-Kollabs/Quartal, +2 aktive Sponsoren, Social Reach +25 %.
-- **Owners:** Creator Manager (Lead), Partnerships Manager, Growth Director.
+- **Owners:** Creator Liaison (Lead), Partner Scout, Growth Captain.
 
 ## Programmdesign
 1. **Recruitment Funnel**
@@ -40,7 +40,7 @@ Programm für Creator-Booster, Workshops und Co-Creation. Ziel: Sponsoring-Pipel
 ## Risks & Mitigation
 - **Brand Misalignment:** Strenges Screening + Code of Conduct.
 - **Burnout/Dropout:** Mini-stipends + mental-health check-ins.
-- **Sponsor Conflicts:** Verträge mit Approval Clause; Growth Director final approval.
+- **Sponsor Conflicts:** Verträge mit Approval Clause; Growth Captain final approval.
 
 ## Next Steps
 - [ ] Intake Landing + Discord Channel aufsetzen.

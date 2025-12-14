@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-meta/manifest/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:00:35.664+01:00","updated":"2025-12-13T16:15:37.092+01:00"}
+{"dg-publish":true,"permalink":"/00-meta/manifest/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:00:35.664+01:00","updated":"2025-12-14T09:11:36.598+01:00"}
 ---
 
 # Manifest – Herkunft, Haltung & Ambition
@@ -34,13 +34,42 @@ Das GG-N Manifest ist unser CEO-Briefing an die Zukunft: Es hält fest, woher wi
 4. **Compliance & Trust** – Risiko-Backlog + Gegenmaßnahmen aus [[06_Risiken/Risiken und Gegenmassnahmen\|Risiken und Gegenmassnahmen]], Privacy-Einhaltung, transparente VIP-Programme.
 5. **Innovation Pods** – Dedizierte Slots für neue Playbooks (Taschengeld Funnel, Creator Labs) – dokumentiert im Abschnitt „Growth Playbooks“.
 
+## Game & Server Portfolio Doctrine
+- **Manifest Games** – Wir launchen nur Titel, die Community-Sicherheit, Modding-Kultur & Datenzugriff zulassen; Auswahl folgt [[01_Vision/Zielgruppe\|Zielgruppe]] + [[01_Vision/Vision 2026\|Vision 2026]].
+- **Portfolio Rhythm** – Pro Phase maximal drei aktive „Games“, jedes mit Manifest Card (Hypothese, KPI, Owner, Exit-Kriterien) im [[Templates/Server-Change-Template\|Templates/Server-Change-Template]].
+- **Scaling Ceiling** – 10–20 Server sind eingeplant; Infrastruktur wird pro Game als Stack dupliziert, nicht improvisiert (IaC + Observability first).
+
+| Track | Game Fokus | Warum er Manifest-fit ist | Status |
+| --- | --- | --- | --- |
+| Sanctuary Sandbox | Minecraft (Paper/Purpur) | Sozialer Safe Space, Creator-freundlich, tiefe Mod-Integrationen. | Go (Phase 2) |
+| Expedition Pods | Valheim / Core Survival | Squad-Coop stärkt Verbindlichkeit & Lernkurven. | Go (Phase 2) |
+| Arena Scrims | CS2 / Aimlabs Rotation | Zeigt Kompetitivität + Fair-Play-Moderation. | Pilot später Phase 3 |
+| Spotlight Slots | Rotierende Indie/Partner Games | Testbett für neue Communities & Sponsoren. | Backlog (Council-Approval) |
+
+> Jede Erweiterung nutzt Playtests + Scorecard: Player Fit, technische Stabilität, monetäre Perspektive, Moderationsaufwand, Data-Zugriff.
+
+### Server-Archetypen (V1)
+| Archetyp | Purpose | Tooling & Guardrails | Owner |
+| --- | --- | --- | --- |
+| **Control Tower** | Pterodactyl Panel + GitOps Layer | Terraform Modules, GitHub Actions, Grafana/Prometheus, Secrets im Vault. | Ops Lead |
+| **Sandbox Pods** | Minecraft Cluster (Lobby + Instanzen) | Paper + Proxy, gamedig Exporter, Anti-Grief Plugins, Data Pipeline [[04_Infrastruktur/Data Platform#B. Minecraft / Andere\|04_Infrastruktur/Data Platform#B. Minecraft / Andere]]. | Forward Deployed Infra |
+| **Survival Pods** | Valheim/BepInEx Nodes | Automatic Backups, Config Drift Reports, SLA Board in [[03_Rollen/Projektleitungen\|03_Rollen/Projektleitungen]]. | Mission Squad Lead |
+| **Competitive Pods** | CS2/Custom Dedicated Server | Tickrate Monitoring, Anti-Cheat Hooks, Match Logs in `_raw_competitive`. | Arena Captain |
+| **Experiment Slots** | Kurzlebige Partner-/Indie-Server | Feature Flags, Budget Cap, Sunset-Checklist (Lessons → [[03_Rollen/Lessons Hub\|03_Rollen/Lessons Hub]]). | Growth Pod |
+
+### Palantir-Style Ops DNA
+- **Platform Core vs. Forward Deployed Pods** – Kleines Kernteam baut Templates + Tooling, Mission Pods passen sie pro Game/Squad an und reporten wöchentlich ins Council.
+- **Zero-Shadow Deploys** – Kein Server ohne IaC Merge + Runbook. Änderungen werden via [[Templates/Server-Change-Template\|Templates/Server-Change-Template]] kommuniziert, Audit-Logs landen im [[04_Infrastruktur/Data Platform\|04_Infrastruktur/Data Platform]].
+- **SLO Ownership** – Jeder Archetyp hat Response-Targets (Uptime, Ticket-SLA, Player Experience) und dedizierte Deputies (siehe [[03_Rollen/Rollenuebersicht\|03_Rollen/Rollenuebersicht]]).
+- **Observability Default** – Logging/metrics/alerting aktiv vor Go-Live, inkl. Discord Status Alerts und Incident Trainig nach [[04_Infrastruktur/Incident Playbook\|04_Infrastruktur/Incident Playbook]].
+
 ## Lessons & Legacy Log
 | Quartal | Insight | Impact |
 | --- | --- | --- |
 | Q1 2025 | Discord-Warteliste treibt bessere Member-Qualität als offene Invites. | Warteliste bleibt Standard (Phase 3 Pilot). |
 | Q2 2025 | Ticket-Automation reduzierte SLA von 24h auf 6h. | Invest in Support SOPs priorisiert. |
 | Q3 2025 | Early Beta Events steigern Retention; Solo-Events floppten. | Nur Squad-Events in Phase 4 Rollouts. |
-| Q4 2025 | Ops-Team-Shadowing senkte Onboarding-Zeit für Mods um 30 %. | Pflichtprogramm für neue Helpers. |
+| Q4 2025 | Ops-Team-Shadowing senkte Onboarding-Zeit für Mods um 30 %. | Pflichtprogramm für neue Welcome Guides. |
 
 > Jede Phase finalisiert Lessons Learned im Meeting-Template; relevante Erkenntnisse landen hier.
 

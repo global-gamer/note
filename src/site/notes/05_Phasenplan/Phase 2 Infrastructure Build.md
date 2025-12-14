@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"phase":2,"period":"Jan–Feb 2026","focus":"Infra build, Panel, node01","primary_owner":"Operations Director","secondary_owner":"Ops Engineer","status":"in-progress","status_icon":"🟠","milestones":["node01 live","Monitoring live","MVP Platforms ready"],"permalink":"/05-phasenplan/phase-2-infrastructure-build/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:40.981+01:00","updated":"2025-12-13T16:04:54.607+01:00"}
+{"dg-publish":true,"phase":2,"period":"Jan–Feb 2026","focus":"Infra build, Panel, node01","primary_owner":"Ops Captain","secondary_owner":"Server Pilot","status":"in-progress","status_icon":"🟠","milestones":["node01 live","Monitoring live","MVP Platforms ready"],"permalink":"/05-phasenplan/phase-2-infrastructure-build/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:40.981+01:00","updated":"2025-12-13T17:04:08.526+01:00"}
 ---
 
 
@@ -27,12 +27,12 @@
 ## Milestones & Owners
 | Deliverable | Owner |
 | --- | --- |
-| Panel Hardening & SSL | Operations Director + Ops Engineer |
-| node01 Live (2 Games + Bot Nest) | Ops Engineer |
+| Panel Hardening & SSL | Ops Captain + Server Pilot |
+| node01 Live (2 Games + Bot Nest) | Server Pilot |
 | Data Platform MVP (DB + Bot) | Data Engineer |
-| PBS Backup Script + Restore Test | Operations Director |
+| PBS Backup Script + Restore Test | Ops Captain |
 | Monitoring Stack (Prometheus, Grafana, Alerting) | Automation Squad |
-| Discord/Forum/Website MVP (Rules, Structure) | Community Director + Growth Manager |
+| Discord/Forum/Website MVP (Rules, Structure) | Community Captain + Content Captain |
 
 ## Notes
 - Document all runbooks im internen DevOps-Repo, Link in [[04_Infrastruktur/Server Setup\|Server Setup]].

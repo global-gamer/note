@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-infrastruktur/server-setup/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:15.934+01:00","updated":"2025-12-13T16:37:03.046+01:00"}
+{"dg-publish":true,"permalink":"/04-infrastruktur/server-setup/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T16:42:15.934+01:00","updated":"2025-12-13T17:04:08.520+01:00"}
 ---
 
 # Server-Setup & Bots
@@ -64,10 +64,10 @@
 7. **Dokumentation:** Für jeden Node eigenständige Notiz im Obsidian oder Pterodactyl Panel (z. B. `Notes/node02.md`) mit Hardware, Wartungsfenster, Ansprechpartner.
 
 ### Node03+ Roadmap & IaC
-- **Node03 (Events/IRL Pods)**: Geplant für [[05_Phasenplan/Phase 9 Expansion\|Phase 9 Expansion]] – dedizierter Event/Pop-Up Node mit burst capacity, Deploy via Terraform Module (Pterodactyl + Docker Host). Owner: Ops Engineer + Tech Lead.
+- **Node03 (Events/IRL Pods)**: Geplant für [[05_Phasenplan/Phase 9 Expansion\|Phase 9 Expansion]] – dedizierter Event/Pop-Up Node mit burst capacity, Deploy via Terraform Module (Pterodactyl + Docker Host). Owner: Server Pilot + Tech Lead.
 - **IaC Plan**: Terraform für DNS, Proxmox, Pterodactyl Nodes; Ansible Playbooks für Bot-VMs + Monitoring Agents. Ziel: Reprovision < 60 Min.
 - **Observability Upgrade**: Prometheus + Loki + Grafana Tempo Stack (Phase 6) → vollständige Logs, Traces und Alerts. Alertmanager routet On-Call (Discord #ops-alerts + SMS).
-- **Incident Response**: Neue Note „Incident Playbook“ (TODO) + Postmortem Template (Anhang ans Meeting-Template) – Owner: Operations Director.
+- **Incident Response**: Neue Note „Incident Playbook“ (TODO) + Postmortem Template (Anhang ans Meeting-Template) – Owner: Ops Captain.
   - Siehe [[04_Infrastruktur/Incident Playbook\|04_Infrastruktur/Incident Playbook]] für Escalation Tree, Postmortem und On-Call Rotation.
 
 ## Wartung & Backups
@@ -101,11 +101,11 @@
 - **External Uptime (Layer 7):** UptimeRobot or BetterStack hitting `panel.gg-n.de`, `api.gg-n.de`, each Gameserver port to catch firewall issues.
 
 ## Bot-Infra
-- **Discord Moderation Bot:** Läuft als Service im Panel (separater Nest) oder auf Webserver. Document tokens/secrets im Vault (nicht in Repo). Empfehlung: `Moderator.GG` (Eigenentwicklung) oder etablierte Bots (z. B. `Dyno` für Automod).
+- **Discord Moderation Bot:** Läuft als Service im Panel (separater Nest) oder auf Webserver. Document tokens/secrets im Vault (nicht in Repo). Empfehlung: `Guardian.GG` (Eigenentwicklung) oder etablierte Bots (z. B. `Dyno` für Automod).
 - **Ticket Bot:** `Ticket Tool` (self-hosted Premium Version) oder `Helper.gg`. Vorteil: Web-Dashboard + Discord UI, API-Webhook zu Website Formularen. Self-host-Container auf node01 (`ticket-bot` Nest).
 - **Website ↔ Discord Tickets:** Landingpage-Formular sendet POST → Cloud Function (e.g. Cloudflare Worker) → Ticket Tool API → erstellt Ticket + sendet Bestätigungsmail.
 - **Logging & Analytics Bot:** `Statbot` oder `Apollo` (für Events). Alternativ eigener Bot, der Discord Metrics → InfluxDB/Grafana schreibt (Weekly WAU & Message Count = KPI feed).
-- **Role Management Reactions:** `Carl-bot`/`Sesh` für Events, Reaction Roles, Auto-Moderator.
+- **Role Management Reactions:** `Carl-bot`/`Sesh` für Events, Reaction Roles, Auto-Guardian.
 - **TS3 Bot (SinusBot o. Ä.):** Auf node01 oder dedizierter VM, Ports + Firewall anpassen.
 
 ## To-Do & Tracking

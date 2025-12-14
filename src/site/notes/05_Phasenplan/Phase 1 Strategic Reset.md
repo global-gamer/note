@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"phase":1,"period":"Nov–Dez 2025","focus":"Governance, Budget, Risk","primary_owner":"Growth Director","secondary_owner":"Operations Director","status":"planning","status_icon":"🟢","milestones":["Governance Charter (15 Nov)","Budget & Cashflow Plan (30 Nov)"],"permalink":"/05-phasenplan/phase-1-strategic-reset/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:36.277+01:00","updated":"2025-12-13T16:05:13.208+01:00"}
+{"dg-publish":true,"phase":1,"period":"Nov–Dez 2025","focus":"Governance, Budget, Risk","primary_owner":"Growth Captain","secondary_owner":"Ops Captain","status":"planning","status_icon":"🟢","milestones":["Governance Charter (15 Nov)","Budget & Cashflow Plan (30 Nov)"],"permalink":"/05-phasenplan/phase-1-strategic-reset/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:36.277+01:00","updated":"2025-12-13T17:00:44.282+01:00"}
 ---
 
 
@@ -25,9 +25,9 @@
 ## Milestones & Owners
 | Deliverable | Owner |
 | --- | --- |
-| Governance Charter + RACI | Growth Director + Community Director |
-| Budget & Cashflow Plan 2026–2027 | Operations Director + Finance Lead |
-| Risk Review & Mitigations | Ops/Community Leads + Moderation Captains |
+| Governance Charter + RACI | Growth Captain + Community Captain |
+| Budget & Cashflow Plan 2026–2027 | Ops Captain + Finance Lead |
+| Risk Review & Mitigations | Ops/Community Leads + Guardian Leads |
 | Tooling Stack Decision (Pterodactyl, Ticket, Analytics) | Executive Council |
 
 ## Notes

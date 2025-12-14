@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-phasenplan/playbook-backlog/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:15:24.608+01:00","updated":"2025-12-13T16:37:34.297+01:00"}
+{"dg-publish":true,"permalink":"/05-phasenplan/playbook-backlog/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-13T16:15:24.608+01:00","updated":"2025-12-13T17:05:28.953+01:00"}
 ---
 
 # Growth Playbook Backlog
@@ -8,12 +8,12 @@ Pipeline für Experimente, die über klassische Phasenarbeit hinausgehen. Jedes 
 
 | Playbook | Hypothese | KPI Target | Phase Gate | Owner |
 | --- | --- | --- | --- | --- |
-| [[05_Phasenplan/Taschengeld Funnel\|Taschengeld Funnel]] | „Pocket Battles Club“ steigert ARPDAU bei 8-16-Jährigen um 30 %. | ARPDAU +0,30 €, Wallet Attach Rate 45 %. | [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]] | Growth Director + Monetization PM |
-| [[05_Phasenplan/Creator Labs Playbook\|Creator Labs]] | Kuratierte Creator-Bootcamps erhöhen Content-Ausstoß & Sponsorpipeline. | 4 Creator-Kollabs/Quartal, Sponsoring-Deck +2 Partner. | [[05_Phasenplan/Phase 7 Growth Sprint\|Phase 7 Growth Sprint]] | Creator Manager + Partnerships |
-| Esports Academy | Coaching-Programme schaffen Paid-Learning-Stream & stärken Retention. | 2 Kohorten/Quarter, 80 % Retention nach 3 Monaten. | [[05_Phasenplan/Phase 9 Expansion\|Phase 9 Expansion]] | Community Director + Ambassadors |
-| Merch Collab Capsule | Limitierte Drops mit Künstlern → frische Einnahmen & PR. | 3 Drops/Jahr, 80 % Abverkauf in 48h. | [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]] | Merch/VIP Manager |
-| IRL Pop-up Plan | Offline Meetups steigern Loyalty & Sponsorenaktivierung. | 2 Pop-ups/Jahr, NPS ≥60, 2 Sponsoren aktiv. | [[05_Phasenplan/Phase 6 Stabilize Automate\|Phase 6 Stabilize Automate]] | Event Director + Growth Director |
-| Education Hub | Lernquests + Eltern-Workshops legitimieren VIP-Käufe und fördern Trust. | 500 Teilnahmen/Jahr, Eltern-NPS > 70. | [[05_Phasenplan/Phase 10 Sustainability\|Phase 10 Sustainability]] | Community Director + Operations Director |
+| [[05_Phasenplan/Taschengeld Funnel\|Taschengeld Funnel]] | „Pocket Battles Club“ steigert ARPDAU bei 8-16-Jährigen um 30 %. | ARPDAU +0,30 €, Wallet Attach Rate 45 %. | [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]] | Growth Captain + Monetization PM |
+| [[05_Phasenplan/Creator Labs Playbook\|Creator Labs]] | Kuratierte Creator-Bootcamps erhöhen Content-Ausstoß & Sponsorpipeline. | 4 Creator-Kollabs/Quartal, Sponsoring-Deck +2 Partner. | [[05_Phasenplan/Phase 7 Growth Sprint\|Phase 7 Growth Sprint]] | Creator Liaison + Partner Scout |
+| Esports Academy | Coaching-Programme schaffen Paid-Learning-Stream & stärken Retention. | 2 Kohorten/Quarter, 80 % Retention nach 3 Monaten. | [[05_Phasenplan/Phase 9 Expansion\|Phase 9 Expansion]] | Community Captain + Ambassadors |
+| Merch Collab Capsule | Limitierte Drops mit Künstlern → frische Einnahmen & PR. | 3 Drops/Jahr, 80 % Abverkauf in 48h. | [[05_Phasenplan/Phase 8 Monetization\|Phase 8 Monetization]] | Supporter Lead |
+| IRL Pop-up Plan | Offline Meetups steigern Loyalty & Sponsorenaktivierung. | 2 Pop-ups/Jahr, NPS ≥60, 2 Sponsoren aktiv. | [[05_Phasenplan/Phase 6 Stabilize Automate\|Phase 6 Stabilize Automate]] | Event Producer + Growth Captain |
+| Education Hub | Lernquests + Eltern-Workshops legitimieren VIP-Käufe und fördern Trust. | 500 Teilnahmen/Jahr, Eltern-NPS > 70. | [[05_Phasenplan/Phase 10 Sustainability\|Phase 10 Sustainability]] | Community Captain + Ops Captain |
 
 ## Workflow
 1. Pitch mit Hypothese + KPI + Owner im Council vorstellen.

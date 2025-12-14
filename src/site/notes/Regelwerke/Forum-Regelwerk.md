@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regelwerke/forum-regelwerk/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:11:02.764+01:00","updated":"2025-12-13T14:41:39.205+01:00"}
+{"dg-publish":true,"permalink":"/regelwerke/forum-regelwerk/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:11:02.764+01:00","updated":"2025-12-13T17:01:25.484+01:00"}
 ---
 
 # Forum Rulebook (GG-N)
@@ -8,7 +8,7 @@ Gilt für Web-/Forum-Plattformen, Bewerbungsbereiche und Support-Threads. Verst�
 
 ## 1. Conduct & Tone
 1. Respect all members; hate speech, sexism, racism oder persönliche Angriffe sind strikt verboten.
-2. No drama-baiting, call-outs oder „Naming & Shaming“. Klär Fälle privat via Ticket oder Community Manager.
+2. No drama-baiting, call-outs oder „Naming & Shaming“. Klär Fälle privat via Ticket oder Community Host.
 3. Kritik ist okay, solange sie konstruktiv, sachlich und lösungsorientiert ist.
 
 ## 2. Content Guidelines
@@ -24,7 +24,7 @@ Gilt für Web-/Forum-Plattformen, Bewerbungsbereiche und Support-Threads. Verst�
 4. Bei Bewerbungen: halte dich an die vorgegebenen Vorlagen/Fragen.
 
 ## 4. Moderation & Escalation
-1. Moderatoren können Posts bearbeiten/verschieben/löschen, ohne vorherige Ankündigung.
+1. Guardianen können Posts bearbeiten/verschieben/löschen, ohne vorherige Ankündigung.
 2. Verwarnungen (Strike-System) werden dokumentiert; 3 Strikes = 30 Tage Schreibpause.
 3. Einsprüche gegen Entscheidungen laufen über das Support-Ticket-System ([[03_Rollen/Moderation und Support Roles\|Moderation und Support Roles]]).
 
@@ -47,7 +47,7 @@ Gilt für Web-/Forum-Plattformen, Bewerbungsbereiche und Support-Threads. Verst�
 
 ### Wie kann ich Werbung posten?
 - Sponsoren, Creator Alliance oder Partner Collective dürfen ihre Inhalte nach Feature-Plan teilen.
-- Community-Mitglieder bitten Growth Director oder Partnerships Manager um Freigabe.
+- Community-Mitglieder bitten Growth Captain oder Partner Scout um Freigabe.
 
 ### Wo finde ich Templates?
 - Bewerbungen & Feedback: angepinnte Threads in den jeweiligen Kategorien.

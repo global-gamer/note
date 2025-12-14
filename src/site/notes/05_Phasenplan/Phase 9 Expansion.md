@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"phase":9,"period":"Mär–Jun 2027","focus":"Additional nodes, regional programs, multilingual support","primary_owner":"Operations Director","secondary_owner":"Community Director","status":"upcoming","status_icon":"⏳","milestones":["Node03 Deployment","Ambassador Program","ROI Reports"],"permalink":"/05-phasenplan/phase-9-expansion/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:14.898+01:00","updated":"2025-12-13T16:06:09.534+01:00"}
+{"dg-publish":true,"phase":9,"period":"Mär–Jun 2027","focus":"Additional nodes, regional programs, multilingual support","primary_owner":"Ops Captain","secondary_owner":"Community Captain","status":"upcoming","status_icon":"⏳","milestones":["Node03 Deployment","Ambassador Program","ROI Reports"],"permalink":"/05-phasenplan/phase-9-expansion/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:14.898+01:00","updated":"2025-12-13T17:00:44.282+01:00"}
 ---
 
 
@@ -25,10 +25,10 @@
 ## Milestones & Owners
 | Deliverable | Owner |
 | --- | --- |
-| Node03 Deployment (Region/Provider) + Checklist | Operations Director |
-| Regional Ambassador Program Launch | Community Director |
-| Multi-Lingual Forum Section live | Community Manager |
-| Partnerships for Regional Events (≥2 deals) | Partnerships Manager |
+| Node03 Deployment (Region/Provider) + Checklist | Ops Captain |
+| Regional Ambassador Program Launch | Community Captain |
+| Multi-Lingual Forum Section live | Community Host |
+| Partnerships for Regional Events (≥2 deals) | Partner Scout |
 | ROI Report pro Region/Game | Finance Lead + Data Analyst |
 
 ## Notes

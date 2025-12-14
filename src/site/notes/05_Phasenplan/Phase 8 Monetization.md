@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"phase":8,"period":"Dez 2026–Feb 2027","focus":"Monetization engine, partner ops, finance automation","primary_owner":"Growth Director","secondary_owner":"Finance Lead","status":"upcoming","status_icon":"⏳","milestones":["Supporter Guild 2.0","Sponsoring Ops Desk","Annual Event / Charity Cup"],"permalink":"/05-phasenplan/phase-8-monetization/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:10.950+01:00","updated":"2025-12-13T16:06:01.868+01:00"}
+{"dg-publish":true,"phase":8,"period":"Dez 2026–Feb 2027","focus":"Monetization engine, partner ops, finance automation","primary_owner":"Growth Captain","secondary_owner":"Finance Lead","status":"upcoming","status_icon":"⏳","milestones":["Supporter Guild 2.0","Sponsoring Ops Desk","Annual Event / Charity Cup"],"permalink":"/05-phasenplan/phase-8-monetization/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:10.950+01:00","updated":"2025-12-13T17:05:14.644+01:00"}
 ---
 
 
@@ -26,13 +26,13 @@
 ## Milestones & Owners
 | Deliverable | Owner |
 | --- | --- |
-| Supporter Guild 2.0 (Benefits + Automation) | Merch & VIP Manager |
-| Sponsoring Ops Desk (CRM + Reporting Templates) | Partnerships Manager |
-| Annual Event / Charity Cup Plan (Format, Sponsor, PR) | Event Director + Growth Director |
+| Supporter Guild 2.0 (Benefits + Automation) | Supporter Lead |
+| Sponsoring Ops Desk (CRM + Reporting Templates) | Partner Scout |
+| Annual Event / Charity Cup Plan (Format, Sponsor, PR) | Event Producer + Growth Captain |
 | Finance Automation (Dashboards, Accounting Setup) | Finance Lead |
-| Taschengeld Funnel Pilot (Pocket Battles Club + Wallet) | Growth Director + Monetization PM |
+| Taschengeld Funnel Pilot (Pocket Battles Club + Wallet) | Growth Captain + Monetization PM |
 | Cash-Kobold Bot + Lifecycle Journeys | CRM Specialist + Tech Lead |
-| Creator-Siegel & Schoolyard Cards Rollout | Creator Manager + Community Ops Lead |
+| Creator-Siegel & Schoolyard Cards Rollout | Creator Liaison + Community Ops Lead |
 | Monthly Revenue ≥ Monthly Costs | Executive Council |
 
 ## Notes

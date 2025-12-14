@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"phase":6,"period":"Aug–Sep 2026","focus":"SOPs, automation, node02 readiness","primary_owner":"Operations Director","secondary_owner":"Data & Insights Analyst","status":"upcoming","status_icon":"⏳","milestones":["SOP Library","Automated KPI Reports","Node02 Deployment"],"permalink":"/05-phasenplan/phase-6-stabilize-automate/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:01.692+01:00","updated":"2025-12-13T16:05:50.218+01:00"}
+{"dg-publish":true,"phase":6,"period":"Aug–Sep 2026","focus":"SOPs, automation, node02 readiness","primary_owner":"Ops Captain","secondary_owner":"Data & Insights Analyst","status":"upcoming","status_icon":"⏳","milestones":["SOP Library","Automated KPI Reports","Node02 Deployment"],"permalink":"/05-phasenplan/phase-6-stabilize-automate/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:01.692+01:00","updated":"2025-12-13T17:04:08.526+01:00"}
 ---
 
 
@@ -25,11 +25,11 @@
 ## Milestones & Owners
 | Deliverable | Owner |
 | --- | --- |
-| SOP Library (Moderation, Events, Support) fertig | Community Manager + Support Captain + Event Director |
+| SOP Library (Moderation, Events, Support) fertig | Community Host + Player Support Lead + Event Producer |
 | Automated KPI Reports (Discord, Forum, Finance) | Data & Insights Analyst |
-| Incident Response Playbook + On-Call Schedule | Operations Director |
-| Node02 Deployment (if required) + Backup/Monitoring Clone | Ops Engineer |
-| Supporter Revenue Coverage ≥50 % | Growth Director + Merch/VIP Manager |
+| Incident Response Playbook + On-Call Schedule | Ops Captain |
+| Node02 Deployment (if required) + Backup/Monitoring Clone | Server Pilot |
+| Supporter Revenue Coverage ≥50 % | Growth Captain + Supporter Lead |
 
 ## Notes
 - Jedes SOP-Dokument referenziert Templates & Tools in Vault/Notion.

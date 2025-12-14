@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"phase":10,"period":"Jul–Dez 2027","focus":"Resilience, innovation, ESG & succession","primary_owner":"Executive Council","secondary_owner":"Ambassadors Council","status":"upcoming","status_icon":"⏳","milestones":["ESG & Compliance Audit","New Vertical Experiments","Impact Report"],"permalink":"/05-phasenplan/phase-10-sustainability/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:20.440+01:00","updated":"2025-12-13T16:04:47.851+01:00"}
+{"dg-publish":true,"phase":10,"period":"Jul–Dez 2027","focus":"Resilience, innovation, ESG & succession","primary_owner":"Executive Council","secondary_owner":"Ambassadors Council","status":"upcoming","status_icon":"⏳","milestones":["ESG & Compliance Audit","New Vertical Experiments","Impact Report"],"permalink":"/05-phasenplan/phase-10-sustainability/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:30:20.440+01:00","updated":"2025-12-13T17:01:25.481+01:00"}
 ---
 
 
@@ -27,9 +27,9 @@
 | --- | --- |
 | Quarterly Strategy Reviews mit Community Ambassadors | Executive Council + Ambassadors Council |
 | New Vertical Experiments (≥2) | Product/Growth Squads |
-| ESG & Compliance Audit (Datenschutz, Diversity, Carbon) | Operations Director + Growth Director |
+| ESG & Compliance Audit (Datenschutz, Diversity, Carbon) | Ops Captain + Growth Captain |
 | Succession Plan & Deputy Onboarding | Executive Council |
-| Sustainability / Impact Report | Data & Insights Analyst + Merch/VIP Manager |
+| Sustainability / Impact Report | Data & Insights Analyst + Supporter Lead |
 
 ## Notes
 - Nach Abschluss Phase 9 → Back to [[05_Phasenplan/Phase 1 Strategic Reset\|Phase 1 Strategic Reset]] mit Lessons Learned.

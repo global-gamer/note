@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"phase":3,"period":"Mär 2026","focus":"Culture tests, onboarding scripts, content pilots","primary_owner":"Community Director","secondary_owner":"Event Director","status":"upcoming","status_icon":"⏳","milestones":["4 Mini-Events","Onboarding Scripts","Social Clip Package"],"permalink":"/05-phasenplan/phase-3-culture-pilot/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:45.220+01:00","updated":"2025-12-13T16:05:24.621+01:00"}
+{"dg-publish":true,"phase":3,"period":"Mär 2026","focus":"Culture tests, onboarding scripts, content pilots","primary_owner":"Community Captain","secondary_owner":"Event Producer","status":"upcoming","status_icon":"⏳","milestones":["4 Mini-Events","Onboarding Scripts","Social Clip Package"],"permalink":"/05-phasenplan/phase-3-culture-pilot/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:45.220+01:00","updated":"2025-12-13T17:01:25.481+01:00"}
 ---
 
 
@@ -28,12 +28,12 @@
 ## Milestones & Owners
 | Deliverable | Owner |
 | --- | --- |
-| Weekly Mini-Event Series (4 Events) | Event Director |
-| Competitor Deep Dive Report | Growth Manager |
-| Discord Feedback Loop (Pulse Channel + Survey) | Community Manager |
-| Queue of 10+ Qualified Applicants via Forum | Moderation Captain + Support Captain |
-| Social Clip Package (4 Pilots) | Growth Manager |
-| Onboarding Script & Moderation Playbook | Community Director + Senior Moderators |
+| Weekly Mini-Event Series (4 Events) | Event Producer |
+| Competitor Deep Dive Report | Content Captain |
+| Discord Feedback Loop (Pulse Channel + Survey) | Community Host |
+| Queue of 10+ Qualified Applicants via Forum | Guardian Lead + Player Support Lead |
+| Social Clip Package (4 Pilots) | Content Captain |
+| Onboarding Script & Moderation Playbook | Community Captain + Senior Guardians |
 
 ## Notes
 - Jede Event-Pilotnotiz ins Template + structured feedback (NPS, highlights).

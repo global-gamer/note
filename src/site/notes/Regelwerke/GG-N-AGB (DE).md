@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regelwerke/gg-n-agb-de/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:11:23.340+01:00","updated":"2025-12-13T14:41:39.206+01:00"}
+{"dg-publish":true,"permalink":"/regelwerke/gg-n-agb-de/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:11:23.340+01:00","updated":"2025-12-13T17:00:44.292+01:00"}
 ---
 
 # Allgemeine Geschäftsbedingungen (AGB) – GG-N (Deutschland)
@@ -12,7 +12,7 @@ Diese AGB gelten für alle Angebote, Plattformen und Services von Global-Gamer N
 ## 2. Vertragspartner & Kontakt
 - Betreiber: Global-Gamer Network (Projektinitiative, keine juristische Person – finaler Rechtsträger einzusetzen)
 - Kontakt: E-Mail/Impressum (nachtragen)
-- Verantwortliche Leitung: Executive Council (Operations, Growth, Community Directors)
+- Verantwortliche Leitung: Executive Council (Operations, Growth, Community Captains)
 
 ## 3. Teilnahme & Accounts
 1. Teilnahme an den Plattformen setzt Mindestalter 16 Jahre voraus.

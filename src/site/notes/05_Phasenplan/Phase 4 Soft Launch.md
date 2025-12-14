@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"phase":4,"period":"Apr–Mai 2026","focus":"Closed beta onboarding, signature events, loadtests","primary_owner":"Community Director","secondary_owner":"Support Captain","status":"upcoming","status_icon":"⏳","milestones":["Invite Campaign","Signature Events","Loadtest + Supporter Pre-Sales"],"permalink":"/05-phasenplan/phase-4-soft-launch/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:51.673+01:00","updated":"2025-12-13T16:05:31.269+01:00"}
+{"dg-publish":true,"phase":4,"period":"Apr–Mai 2026","focus":"Closed beta onboarding, signature events, loadtests","primary_owner":"Community Captain","secondary_owner":"Player Support Lead","status":"upcoming","status_icon":"⏳","milestones":["Invite Campaign","Signature Events","Loadtest + Supporter Pre-Sales"],"permalink":"/05-phasenplan/phase-4-soft-launch/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-12-08T18:29:51.673+01:00","updated":"2025-12-13T17:04:08.525+01:00"}
 ---
 
 
@@ -25,12 +25,12 @@
 ## Milestones & Owners
 | Deliverable | Owner |
 | --- | --- |
-| Invite Campaign (Landing + Referral Codes) | Growth Director |
-| Ticket Tool Full Launch + SLA Dashboard | Support Captain + Operations Director |
-| Signature Event #1 (Friday Fun Night) | Event Director |
-| Signature Event #2 (Ladder Kickoff) | Event Director |
-| Loadtest Report (node01, 30+ concurrency) | Ops Engineer |
-| Supporter Guild Pre-Sales Offer | Growth Director + Merch/VIP Manager |
+| Invite Campaign (Landing + Referral Codes) | Growth Captain |
+| Ticket Tool Full Launch + SLA Dashboard | Player Support Lead + Ops Captain |
+| Signature Event #1 (Friday Fun Night) | Event Producer |
+| Signature Event #2 (Ladder Kickoff) | Event Producer |
+| Loadtest Report (node01, 30+ concurrency) | Server Pilot |
+| Supporter Guild Pre-Sales Offer | Growth Captain + Supporter Lead |
 
 ## Notes
 - Erstelle Soft-Launch Retros in Forum/Notion, highlight Learnings für Phase 4.
